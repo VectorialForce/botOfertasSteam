@@ -1,0 +1,182 @@
+[
+  {
+    "indice": 1,
+    "titulo": "Black Mesa",
+    "precio": "1.99",
+    "link": "https://itad.link/018d9386-31fc-72e6-8415-429a55dedec7/"
+  },
+  {
+    "indice": 2,
+    "titulo": "Disco Elysium - The Final Cut",
+    "precio": "3.99",
+    "link": "https://itad.link/018d9386-4e5d-715f-a47b-1577914ee0ae/"
+  },
+  {
+    "indice": 3,
+    "titulo": "RoboCop: Rogue City",
+    "precio": "4.99",
+    "link": "https://itad.link/018d9386-bb51-723a-aed8-38a2da3cdf98/"
+  },
+  {
+    "indice": 4,
+    "titulo": "Little Nightmares II",
+    "precio": "2.99",
+    "link": "https://itad.link/018d9386-8d31-73b5-87ef-456318188ad9/"
+  },
+  {
+    "indice": 5,
+    "titulo": "Blasphemous",
+    "precio": "2.49",
+    "link": "https://itad.link/018d9386-320d-713c-bedd-73ad11eed1c1/"
+  },
+  {
+    "indice": 6,
+    "titulo": "STEINS;GATE",
+    "precio": "2.99",
+    "link": "https://itad.link/018d9386-d3b0-7170-a2c4-3d4248bb296f/"
+  },
+  {
+    "indice": 7,
+    "titulo": "Crash Bandicoot™ N. Sane Trilogy",
+    "precio": "3.99",
+    "link": "https://itad.link/018d9386-4277-7087-9a5a-498ee016b17f/"
+  },
+  {
+    "indice": 8,
+    "titulo": "Beyond Two Souls",
+    "precio": "1.99",
+    "link": "https://itad.link/018d9386-30df-7227-9b99-153712b491f3/"
+  },
+  {
+    "indice": 9,
+    "titulo": "GRIS",
+    "precio": "1.49",
+    "link": "https://itad.link/018d9386-6f54-7354-8e56-8899347a7ed2/"
+  },
+  {
+    "indice": 10,
+    "titulo": "Marvel's Guardians of the Galaxy",
+    "precio": "5.99",
+    "link": "https://itad.link/018d9386-9332-70e0-80f5-d04d8d93a831/"
+  },
+  {
+    "indice": 11,
+    "titulo": "Sid Meier's Civilization VI",
+    "precio": "2.99",
+    "link": "https://itad.link/018d9386-c7ec-733e-9a3a-4e4f04e24a47/"
+  },
+  {
+    "indice": 12,
+    "titulo": "Jurassic World Evolution 2",
+    "precio": "2.99",
+    "link": "https://itad.link/018d9386-843a-735c-ad4a-2888b72f20c4/"
+  },
+  {
+    "indice": 13,
+    "titulo": "Werewolf: The Apocalypse - Heart of the Forest",
+    "precio": "1.49",
+    "link": "https://itad.link/018d9386-f4db-7240-bbb3-3637ea14f359/"
+  },
+  {
+    "indice": 14,
+    "titulo": "Borderlands 3",
+    "precio": "2.99",
+    "link": "https://itad.link/018d9386-357e-72d3-9206-0bac6de0cd43/"
+  },
+  {
+    "indice": 15,
+    "titulo": "Battlefield™ 2042",
+    "precio": "2.99",
+    "link": "https://itad.link/018d9386-2e8b-71ba-a73c-2521c6ef7790/"
+  },
+  {
+    "indice": 16,
+    "titulo": "Epic Chef",
+    "precio": "2.49",
+    "link": "https://itad.link/018d9386-5844-7100-901f-3689df9058f4/"
+  },
+  {
+    "indice": 17,
+    "titulo": "Ampersat",
+    "precio": "0.99",
+    "link": "https://itad.link/018d9386-2190-7229-a3d6-451f6ffc8dae/"
+  },
+  {
+    "indice": 18,
+    "titulo": "Mass Effect™ Legendary Edition",
+    "precio": "5.99",
+    "link": "https://itad.link/018d9386-93e3-7313-a47a-e099c505c612/"
+  },
+  {
+    "indice": 19,
+    "titulo": "Felix The Reaper",
+    "precio": "0.99",
+    "link": "https://itad.link/018d9386-62b2-73f7-b0a5-d1f514001fa5/"
+  },
+  {
+    "indice": 20,
+    "titulo": "STAR WARS™ Battlefront™ II: Celebration Edition",
+    "precio": "3.99",
+    "link": "https://itad.link/018d9386-d282-701a-8e60-5db00b2370e8/"
+  },
+  {
+    "indice": 21,
+    "titulo": "Bloons TD 6",
+    "precio": "1.39",
+    "link": "https://itad.link/018d9386-332d-7295-8463-30108b4d1e72/"
+  },
+  {
+    "indice": 22,
+    "titulo": "Automobilista 2",
+    "precio": "3.99",
+    "link": "https://itad.link/018d9386-2b43-7333-b524-2fae7cffdb2c/"
+  },
+  {
+    "indice": 23,
+    "titulo": "Outlast 2",
+    "precio": "1.99",
+    "link": "https://itad.link/018d9386-a7e2-72a8-8939-b09f7ec515b5/"
+  },
+  {
+    "indice": 24,
+    "titulo": "Besiege",
+    "precio": "1.49",
+    "link": "https://itad.link/018d9386-2fa3-7294-b910-0cc50c028ab5/"
+  },
+  {
+    "indice": 25,
+    "titulo": "House Flipper",
+    "precio": "2.49",
+    "link": "https://itad.link/018d9386-76e1-7290-af34-356611209643/"
+  },
+  {
+    "indice": 26,
+    "titulo": "Furi",
+    "precio": "1.99",
+    "link": "https://itad.link/018d9386-68d5-7216-a8b6-dcf6cf40daf8/"
+  },
+  {
+    "indice": 27,
+    "titulo": "Kerbal Space Program",
+    "precio": "3.99",
+    "link": "https://itad.link/018d9386-860d-7243-ad6b-fa8ef52db9a1/"
+  },
+  {
+    "indice": 28,
+    "titulo": "Crypt of the Necrodancer",
+    "precio": "1.49",
+    "link": "https://itad.link/018d9386-44ab-7050-a26f-ba3867524590/"
+  },
+  {
+    "indice": 29,
+    "titulo": "Spiritfarer: Farewell Edition",
+    "precio": "2.99",
+    "link": "https://itad.link/018d9386-cfed-709f-b218-dbda6feaf5f1/"
+  },
+  {
+    "indice": 30,
+    "titulo": "Battlefield™ 1 Revolution",
+    "precio": "1.99",
+    "link": "https://itad.link/018d9386-2e92-70eb-ae13-61d0383aa841/"
+  }
+]
