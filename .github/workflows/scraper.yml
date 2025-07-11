@@ -1,22 +1,39 @@
 name: Scrapear juegos
 
 on:
+  schedule:
+    - cron: '00 12 * * *'  # 09:00 ARG (UTC-3 → 12:00 UTC)
   workflow_dispatch:
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Clonar el repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
 
       - name: Instalar dependencias
         run: pip install -r requirements.txt
 
-      - name: Ejecutar scraping
+      - name: Ejecutar scraper
         run: python -m bot.scraper
 
-      - name: Guardar artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: juegos
-          path: data/juegos.json
+      - name: Configurar Git para el commit
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "github-actions@github.com"
+
+      - name: Mover y commitear juegos.json a rama `data`
+        run: |
+          git fetch origin
+          git switch data || git checkout -b data
+          mv data/juegos.json juegos.json || echo "Ya está en la raíz"
+          git add juegos.json
+          git commit -m "Actualizar juegos.json del día $(date +'%Y-%m-%d')" || echo "Sin cambios"
+          git push origin data
