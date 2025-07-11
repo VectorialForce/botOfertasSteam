@@ -1,9 +1,6 @@
 import os
 import tweepy
-from apscheduler.schedulers.blocking import BlockingScheduler
 from dotenv import load_dotenv
-from datetime import datetime
-from Utils import *
 from Utils.helpers import obtenerTresJuegos
 
 contador = 0
