@@ -1,18 +1,23 @@
 name: Publicar juego 2
 
 on:
+  schedule:
+    - cron: '00 20 * * *'
   workflow_dispatch:
 
 jobs:
-  publicar:
+  publicar_2:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
-
-      - name: Descargar artifact
-        uses: actions/download-artifact@v4
         with:
-          name: juegos
+          ref: data
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
 
       - name: Instalar dependencias
         run: pip install -r requirements.txt
