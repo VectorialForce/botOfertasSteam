@@ -7,9 +7,9 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-def ingresarENITAD():
+def ingresarEnITAD():
     options = Options()
-    options.add_argument("--headless")
+    #options.add_argument("--headless")
     driver = webdriver.Chrome(options=options)
     link = "https://isthereanydeal.com/deals/#filter:N4IgzgFg9gDmIC4DaA2AjAXQDQgMYFcAXRUAWwEsA7RATgAYdSBDAD0TTroF8ug="
 
@@ -45,7 +45,7 @@ def guardarJuegos(driver):
         json.dump(data, f, indent=2, ensure_ascii=False)
 
 def scrapearITAD():
-    driver = ingresarENITAD()
+    driver = ingresarEnITAD()
     guardarJuegos(driver)
     driver.quit()
     print("Valores actualizados")

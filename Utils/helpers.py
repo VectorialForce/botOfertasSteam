@@ -8,8 +8,8 @@ def obtenerTresJuegos(contador):
     with open('juegos.json', 'r') as archivoJson:
         listaJuegos = json.load(archivoJson)
 
-    seleccionar = listaJuegos[inicio:fin]
+    seleccionar = listaJuegos[0]
 
-    for juego in seleccionar:
-        print(f"{juego['indice']}: {juego['titulo']} - {juego['precio']}")
+    lista = f"{seleccionar['titulo']} - ${seleccionar['precio']} - {seleccionar['link']}"
 
+    return lista
