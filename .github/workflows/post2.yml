@@ -3,7 +3,7 @@ name: Publicar juego 1
 on:
   schedule:
     - cron: '30 12 * * *'  # 12:30 UTC = 9:30 AR
-  workflow_dispatch:
+  workflow_dispatch: {}
 
 jobs:
   publicar:

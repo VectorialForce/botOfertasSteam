@@ -3,7 +3,7 @@ name: Scrapear juegos
 on:
   schedule:
     - cron: '0 12 * * *'  # 12:00 UTC → 9:00 AM Argentina
-  workflow_dispatch:
+  workflow_dispatch: {}
 
 jobs:
   scrape:
