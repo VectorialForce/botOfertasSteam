@@ -1,7 +1,7 @@
 name: Scrapear juegos
 
 on:
-  workflow_dispatch: {}
+  workflow_dispatch:
 
 jobs:
   scrape:
@@ -13,7 +13,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Ejecutar scraping
-        run: python main.py
+        run: python scraper.py
 
       - name: Guardar artifact
         uses: actions/upload-artifact@v3
