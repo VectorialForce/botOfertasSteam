@@ -23,7 +23,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Publicar tweet
-        run: python publicar_juego.py --indice 3
+        run: python main.py --indice 3
         env:
           TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
           TWITTER_API_KEY_SECRET: ${{ secrets.TWITTER_API_KEY_SECRET }}
