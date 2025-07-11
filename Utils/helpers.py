@@ -1,15 +1,10 @@
 import json
 
-def obtenerTresJuegos(contador):
-
-    fin = contador * 3
-    inicio = fin - 3
+def getJuego(indice):
 
     with open('juegos.json', 'r') as archivoJson:
-        listaJuegos = json.load(archivoJson)
+        listaDeOfertas = json.load(archivoJson)
 
-    seleccionar = listaJuegos[0]
+    juego = listaDeOfertas[indice - 1]
 
-    lista = f"{seleccionar['titulo']} - ${seleccionar['precio']} - {seleccionar['link']}"
-
-    return lista
+    return f"{juego['titulo']} - ${juego['precio']} - {juego['link']}"

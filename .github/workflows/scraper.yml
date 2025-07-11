@@ -1,0 +1,24 @@
+name: Scrapear juegos
+
+on:
+  schedule:
+    - cron: '0 12 * * *'  # 12:00 UTC → 9:00 AM Argentina
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Ejecutar scraping
+        run: python main.py
+
+      - name: Guardar artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: juegos
+          path: juegos.json

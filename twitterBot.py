@@ -1,7 +1,7 @@
 import os
 import tweepy
 from dotenv import load_dotenv
-from Utils.helpers import obtenerTresJuegos
+from Utils.helpers import getJuego
 
 contador = 0
 
@@ -21,8 +21,7 @@ client = tweepy.Client(
     access_token_secret=os.getenv("TWITTER_ACCESS_TOKEN_SECRET")
 )
 
-def test():
-    tweet = obtenerTresJuegos(1)
-
+def test(indice):
+    tweet = getJuego(indice)
     response = client.create_tweet(text=tweet)
     print("Tweet publicado:", response.data)
