@@ -1,7 +1,10 @@
-from itadScraper import scrapearITAD
-from Utils.helpers import obtenerTresJuegos
-from twitterBot import *
+import argparse
+
+from bot.scraper import scrapearITAD
+from bot.twitter import *
 
 if __name__ == "__main__":
-    scrapearITAD()
-    test()
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--indice", type=int, required=True)
+    args = parser.parse_args()
+    publicarTweet(args.indice)

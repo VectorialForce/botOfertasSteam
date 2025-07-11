@@ -1,0 +1,26 @@
+name: Publicar juego 1
+
+on:
+  workflow_dispatch:
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Descargar artifact
+        uses: actions/download-artifact@v3
+        with:
+          name: juegos
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Publicar tweet
+        run: python publicar_juego.py --indice 1
+        env:
+          TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
+          TWITTER_API_KEY_SECRET: ${{ secrets.TWITTER_API_KEY_SECRET }}
+          TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+          TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
