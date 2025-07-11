@@ -1,9 +1,7 @@
 name: Publicar descuentos en Twitter
 
 on:
-  schedule:
-    - cron: '0 13 * * *'   # todos los días a las 13:00 UTC (10 AM en Argentina)
-  workflow_dispatch:        # permite ejecutarlo manualmente desde GitHub
+  workflow_dispatch:
 
 jobs:
   run-bot:
