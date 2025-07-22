@@ -1,12 +1,14 @@
-name: Publicar juego 2
+name: Publicar juego 1
 
 on:
-  #schedule:
-    #- cron: '00 20 * * *'
+  schedule:
+    - cron: '00 17 * * *'
+    - cron: '00 20 * * *'
+    - cron: '00 23 * * *'
   workflow_dispatch:
 
 jobs:
-  publicar_2:
+  publicar_1:
     runs-on: ubuntu-latest
 
     steps:
@@ -23,7 +25,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Publicar tweet
-        run: python main.py --indice 2
+        run: python main.py
         env:
           TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
           TWITTER_API_KEY_SECRET: ${{ secrets.TWITTER_API_KEY_SECRET }}
