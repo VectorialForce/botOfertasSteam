@@ -1,4 +1,4 @@
-name: Publicar juego 1
+name: Publicar juego
 
 on:
   schedule:
