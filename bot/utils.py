@@ -13,9 +13,9 @@ def getJuego(indice):
     link = juego['link']
 
     tweet = (
-    f"🕹🚨 Hoy tenes en oferta {titulo} por ${precio} USD 💸\n"
+    f"🚨 Hoy tenes en oferta {titulo} por ${precio} USD\n"
     f"(Precio estimado, puede variar según región)\n"
-    f"🛒 {link}\n"
+    f"{link}\n"
     )
 
     return tweet
