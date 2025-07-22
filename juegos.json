@@ -1,0 +1,212 @@
+[
+  {
+    "indice": 1,
+    "titulo": "RoboCop: Rogue City",
+    "precio": "4.99",
+    "link": "https://itad.link/018d9386-bb51-723a-aed8-38a2da3cdf98/",
+    "publicado": "NO"
+  },
+  {
+    "indice": 2,
+    "titulo": "Felix The Reaper",
+    "precio": "0.99",
+    "link": "https://itad.link/018d9386-62b2-73f7-b0a5-d1f514001fa5/",
+    "publicado": "NO"
+  },
+  {
+    "indice": 3,
+    "titulo": "Werewolf: The Apocalypse - Heart of the Forest",
+    "precio": "1.49",
+    "link": "https://itad.link/018d9386-f4db-7240-bbb3-3637ea14f359/",
+    "publicado": "SI"
+  },
+  {
+    "indice": 4,
+    "titulo": "Alan Wake",
+    "precio": "1.49",
+    "link": "https://itad.link/018d9386-1f04-7314-b1ff-798f8ee6007f/",
+    "publicado": "NO"
+  },
+  {
+    "indice": 5,
+    "titulo": "Besiege",
+    "precio": "1.49",
+    "link": "https://itad.link/018d9386-2fa3-7294-b910-0cc50c028ab5/",
+    "publicado": "NO"
+  },
+  {
+    "indice": 6,
+    "titulo": "Ragnaröck",
+    "precio": "1.99",
+    "link": "https://itad.link/018d9386-b479-715d-b686-2d6d1ed759f6/",
+    "publicado": "NO"
+  },
+  {
+    "indice": 7,
+    "titulo": "The Gunk",
+    "precio": "1.74",
+    "link": "https://itad.link/018d9386-701e-726c-a0ad-db9323ba7916/",
+    "publicado": "SI"
+  },
+  {
+    "indice": 8,
+    "titulo": "Strikers Edge",
+    "precio": "1.49",
+    "link": "https://itad.link/018d9386-d608-73f6-a135-a15e83a6c601/",
+    "publicado": "NO"
+  },
+  {
+    "indice": 9,
+    "titulo": "Alan Wake's American Nightmare",
+    "precio": "0.89",
+    "link": "https://itad.link/018d9386-1f06-70ad-ac3a-befb62d83ece/",
+    "publicado": "NO"
+  },
+  {
+    "indice": 10,
+    "titulo": "Great Houses of Calderia",
+    "precio": "2.49",
+    "link": "https://itad.link/018d9386-6f38-70ec-a3b9-6465dcaeb4d7/",
+    "publicado": "NO"
+  },
+  {
+    "indice": 11,
+    "titulo": "Killing Floor 2",
+    "precio": "2.99",
+    "link": "https://itad.link/018d9386-861f-71d5-836f-0f8a8a906832/",
+    "publicado": "NO"
+  },
+  {
+    "indice": 12,
+    "titulo": "In Sound Mind",
+    "precio": "3.49",
+    "link": "https://itad.link/018d9386-7f7a-73a1-a2da-9311846e6599/",
+    "publicado": "NO"
+  },
+  {
+    "indice": 13,
+    "titulo": "Teslagrad 2",
+    "precio": "1.99",
+    "link": "https://itad.link/018d9386-dd05-7312-98d5-763d656f68b6/",
+    "publicado": "NO"
+  },
+  {
+    "indice": 14,
+    "titulo": "Destiny 2: The Witch Queen",
+    "precio": "2.39",
+    "link": "https://itad.link/018d9386-4c0d-731c-91a6-a061c67fd740/",
+    "publicado": "NO"
+  },
+  {
+    "indice": 15,
+    "titulo": "Destiny 2: Lightfall",
+    "precio": "2.39",
+    "link": "https://itad.link/018d9386-4c0a-722c-b86d-55f0ecb4e870/",
+    "publicado": "NO"
+  },
+  {
+    "indice": 16,
+    "titulo": "Endless Legend",
+    "precio": "2.99",
+    "link": "https://itad.link/018d9386-5822-71e6-a5f1-1b09e3132efd/",
+    "publicado": "NO"
+  },
+  {
+    "indice": 17,
+    "titulo": "Soulstice",
+    "precio": "3.99",
+    "link": "https://itad.link/018d9386-cd46-72cf-9c39-eb470184111d/",
+    "publicado": "NO"
+  },
+  {
+    "indice": 18,
+    "titulo": "AER Memories of Old",
+    "precio": "1.49",
+    "link": "https://itad.link/018d9386-170d-7339-83b7-b9f647fe791d/",
+    "publicado": "NO"
+  },
+  {
+    "indice": 19,
+    "titulo": "Robocop: Rogue City Alex Murphy Edition",
+    "precio": "5.99",
+    "link": "https://itad.link/018d9386-bb52-70e2-bc65-f022110c4a45/",
+    "publicado": "NO"
+  },
+  {
+    "indice": 20,
+    "titulo": "FAR: Lone Sails",
+    "precio": "1.49",
+    "link": "https://itad.link/018d9386-601d-71e1-94da-f50f99b49e91/",
+    "publicado": "NO"
+  },
+  {
+    "indice": 21,
+    "titulo": "Alan Wake Collector's Edition",
+    "precio": "1.99",
+    "link": "https://itad.link/018d9386-1f05-70f2-b8cf-febb08cc670a/",
+    "publicado": "NO"
+  },
+  {
+    "indice": 22,
+    "titulo": "The Last Campfire",
+    "precio": "1.49",
+    "link": "https://itad.link/018d9386-89b8-7090-bb5d-04bfc02092b5/",
+    "publicado": "NO"
+  },
+  {
+    "indice": 23,
+    "titulo": "CryoFall",
+    "precio": "1.99",
+    "link": "https://itad.link/018d9386-44a9-72ef-bf28-047d1e9da3d6/",
+    "publicado": "NO"
+  },
+  {
+    "indice": 24,
+    "titulo": "911 Operator",
+    "precio": "1.49",
+    "link": "https://itad.link/018d9386-82ea-70d3-ad42-aaaa2f7e7c38/",
+    "publicado": "NO"
+  },
+  {
+    "indice": 25,
+    "titulo": "Skyhill",
+    "precio": "0.99",
+    "link": "https://itad.link/018d9386-ca6c-723e-9c96-cd2798f1ee02/",
+    "publicado": "NO"
+  },
+  {
+    "indice": 26,
+    "titulo": "Splasher",
+    "precio": "1.49",
+    "link": "https://itad.link/018d9386-cff4-738b-acb7-5831ec2d2a06/",
+    "publicado": "NO"
+  },
+  {
+    "indice": 27,
+    "titulo": "Streamer Life Simulator",
+    "precio": "1.99",
+    "link": "https://itad.link/018d9386-d54a-7214-a756-ed0d0ea76645/",
+    "publicado": "NO"
+  },
+  {
+    "indice": 28,
+    "titulo": "Shadow Tactics: Blades of the Shogun",
+    "precio": "3.99",
+    "link": "https://itad.link/018d9386-c4b8-73ab-aa45-072759b04fcb/",
+    "publicado": "NO"
+  },
+  {
+    "indice": 29,
+    "titulo": "Alan Wake Franchise",
+    "precio": "2.49",
+    "link": "https://itad.link/018d9386-1f06-70ad-ac3a-befb38309650/",
+    "publicado": "NO"
+  },
+  {
+    "indice": 30,
+    "titulo": "Nickelodeon All-Star Brawl",
+    "precio": "2.49",
+    "link": "https://itad.link/018d9386-a294-722b-a82c-51b6803d9e33/",
+    "publicado": "NO"
+  }
+]
