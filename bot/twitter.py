@@ -1,4 +1,5 @@
 import os
+import sys
 
 import tweepy
 from dotenv import load_dotenv
@@ -33,5 +34,9 @@ def publicarTweet():
                 print(f"Tweet duplicado para índice, intentando con el siguiente...")
                 continue
             else:
-                print("Otro error de tipo Forbidden:", e)
+                print("Otro tipo de error:", e)
                 break
+        except tweepy.errors.TooManyRequests as e:
+            print("Se alcanzó el límite de publicaciones mensuales")
+            print(f"ERROR {e.response.status_code}: {e.response.reason}")
+            sys.exit(1)
