@@ -2,9 +2,9 @@ name: Publicar juego 1
 
 on:
   schedule:
-    - cron: '00 17 * * *'
-    - cron: '00 20 * * *'
-    - cron: '00 23 * * *'
+    - cron: '0 17 * * *'
+    - cron: '0 20 * * *'
+    - cron: '0 23 * * *'
   workflow_dispatch:
 
 jobs:

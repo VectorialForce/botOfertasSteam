@@ -2,7 +2,7 @@ name: Actualizar lista de juegos
 
 on:
   schedule:
-    - cron: '00 16 * * *'
+    - cron: '0 16 * * *'
   workflow_dispatch:
 
 jobs:
