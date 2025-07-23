@@ -2,7 +2,7 @@ name: Actualizar lista de juegos
 
 on:
   schedule:
-    - cron: '0 16 * * *'
+    - cron: '30 16 * * *'
   workflow_dispatch:
 
 jobs:
@@ -10,8 +10,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Clonar el repositorio
+      - name: Clonar el repositorio (rama data)
         uses: actions/checkout@v4
+        with:
+          ref: data
 
       - name: Configurar Python
         uses: actions/setup-python@v4
@@ -29,11 +31,19 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "github-actions@github.com"
 
-      - name: Mover y commitear juegos.json a rama `data`
+      - name: Commitear cambios en data/juegos.json
         run: |
-          git fetch origin
-          git switch data || git checkout -b data
-          mv data/juegos.json juegos.json || echo "Ya está en la raíz"
-          git add juegos.json
-          git commit -m "Actualizar juegos.json del día $(date +'%Y-%m-%d')" || echo "Sin cambios"
-          git push origin data
+          # Verificar si el archivo fue creado/modificado
+          if [ -f data/juegos.json ]; then
+            git add data/juegos.json
+            if git diff --cached --quiet; then
+              echo "Sin cambios en juegos.json"
+            else
+              git commit -m "Actualizar juegos.json del día $(date +'%Y-%m-%d')"
+              git push origin data
+              echo "Archivo actualizado y pusheado"
+            fi
+          else
+            echo "Error: data/juegos.json no fue generado"
+            exit 1
+          fi
