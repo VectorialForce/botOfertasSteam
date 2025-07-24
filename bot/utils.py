@@ -22,6 +22,6 @@ def getJuego(indice):
 
 def getJuegoAleatorio():
 
-    numeroAleatorio = random.randint(1,15)
+    numeroAleatorio = random.randint(1,30)
 
     return getJuego(numeroAleatorio)
