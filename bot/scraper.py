@@ -41,7 +41,7 @@ def guardarJuegos(driver):
         except Exception as e:
             print("Error leyendo un juego:", e)
 
-    with open("/data/juegos.json", "w", encoding="utf-8") as f:
+    with open("../data/juegos.json", "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
 
 def scrapearITAD():
@@ -49,3 +49,5 @@ def scrapearITAD():
     guardarJuegos(driver)
     driver.quit()
     print("Valores actualizados")
+
+scrapearITAD()
