@@ -26,6 +26,7 @@ jobs:
 
       - name: Publicar tweet
         run: python main.py
+        working-directory: ./
         env:
           TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
           TWITTER_API_KEY_SECRET: ${{ secrets.TWITTER_API_KEY_SECRET }}

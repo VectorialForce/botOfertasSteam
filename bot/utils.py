@@ -3,7 +3,7 @@ import random
 
 def getJuego(indice):
 
-    with open('../data/juegos.json', 'r') as archivoJson:
+    with open('data/juegos.json', 'r') as archivoJson:
         listaDeOfertas = json.load(archivoJson)
 
     juego = listaDeOfertas[indice - 1]
