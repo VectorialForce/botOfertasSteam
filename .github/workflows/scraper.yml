@@ -25,7 +25,6 @@ jobs:
 
       - name: Ejecutar scraper
         run: python -m bot.scraper
-        working-directory: ./
 
       - name: Configurar Git para el commit
         run: |
