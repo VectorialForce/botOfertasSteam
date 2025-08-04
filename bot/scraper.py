@@ -10,16 +10,12 @@ from selenium.webdriver.support import expected_conditions as EC
 def ingresarEnITAD():
     options = Options()
     options.add_argument("--headless")
-    options.add_argument("--no-sandbox")
-    options.add_argument("--disable-dev-shm-usage")
-    options.add_argument("--disable-gpu")
-    options.add_argument("--window-size=1920,1080")
     driver = webdriver.Chrome(options=options)
     link = "https://isthereanydeal.com/deals/#filter:N4IgzgFg9gDmIC4DaA2AjAXQDQgMYFcAXRUAWwEsA7RATgAYdSBDAD0TTroF8ug="
 
     try:
         driver.get(link)
-        WebDriverWait(driver, 30).until(EC.presence_of_element_located((By.CSS_SELECTOR, "a.title")))
+        WebDriverWait(driver, 30).until(EC.presence_of_element_located((By.CSS_SELECTOR, "a.game")))
     except WebDriverException as e:
         if "net::ERR_INTERNET_DISCONNECTED" in str(e):
             print("No hay conexión a internet.")
@@ -29,14 +25,17 @@ def ingresarEnITAD():
     return driver
 
 def guardarJuegos(driver):
-    juegos = driver.find_elements(By.CSS_SELECTOR, "div.js-gid")
+    juegos = driver.find_elements(By.CSS_SELECTOR, "a.game")
     data = []
     indice = 0
     for juego in juegos:
         try:
-            titulo = juego.find_element(By.CSS_SELECTOR, "a.title").text.strip()
-            precio = juego.find_element(By.CSS_SELECTOR, "span.deal__new").text.strip("$")
-            link = juego.find_element(By.CSS_SELECTOR, "a.deal__main").get_attribute("href")
+            titulo = juego.find_element(By.CSS_SELECTOR, "div.title").text.strip()
+
+            padre = juego.find_element(By.XPATH, "..")
+
+            precio = padre.find_element(By.CSS_SELECTOR, "a.deal > div.wrapper > span").text.strip("$")
+            link = padre.find_element(By.CSS_SELECTOR, "a.deal").get_attribute("href")
             indice += 1
 
             data.append({"indice": indice, "titulo": titulo, "precio": precio, "link": link})
