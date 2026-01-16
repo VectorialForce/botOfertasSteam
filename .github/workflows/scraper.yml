@@ -1,0 +1,49 @@
+name: Actualizar lista de juegos
+
+on:
+  schedule:
+    - cron: '30 16 * * *'
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clonar el repositorio (rama data)
+        uses: actions/checkout@v4
+        with:
+          ref: data
+
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Ejecutar scraper
+        run: python -m bot.scraper
+
+      - name: Configurar Git para el commit
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "github-actions@github.com"
+
+      - name: Commitear cambios en data/juegos.json
+        run: |
+          # Verificar si el archivo fue creado/modificado
+          if [ -f data/juegos.json ]; then
+            git add data/juegos.json
+            if git diff --cached --quiet; then
+              echo "Sin cambios en juegos.json"
+            else
+              git commit -m "Actualizar juegos.json del día $(date +'%Y-%m-%d')"
+              git push origin data
+              echo "Archivo actualizado y pusheado"
+            fi
+          else
+            echo "Error: data/juegos.json no fue generado"
+            exit 1
+          fi
