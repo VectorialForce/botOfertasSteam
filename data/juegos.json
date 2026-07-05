@@ -7,39 +7,39 @@
   },
   {
     "indice": 2,
-    "titulo": "RoboCop: Rogue City",
-    "precio": "3.99",
-    "link": "https://itad.link/018d9386-bb51-723a-aed8-38a2da3cdf98/"
-  },
-  {
-    "indice": 3,
-    "titulo": "Detroit: Become Human",
-    "precio": "3.99",
-    "link": "https://itad.link/018d9386-4c18-72a7-9563-451720e3db6d/"
-  },
-  {
-    "indice": 4,
     "titulo": "Nexus: The Jupiter Incident",
     "precio": "0.99",
     "link": "https://itad.link/018d9386-a292-726b-b785-2c18320ce5bf/"
   },
   {
-    "indice": 5,
-    "titulo": "Rain World",
-    "precio": "2.49",
-    "link": "https://itad.link/018d9386-b5e1-734b-ae7b-8fbdcf574ad3/"
-  },
-  {
-    "indice": 6,
+    "indice": 3,
     "titulo": "Metro Exodus",
     "precio": "2.99",
     "link": "https://itad.link/018d9386-96bd-72f1-8c75-148179f27bea/"
   },
   {
-    "indice": 7,
+    "indice": 4,
+    "titulo": "Detroit: Become Human",
+    "precio": "3.99",
+    "link": "https://itad.link/018d9386-4c18-72a7-9563-451720e3db6d/"
+  },
+  {
+    "indice": 5,
+    "titulo": "RoboCop: Rogue City",
+    "precio": "3.99",
+    "link": "https://itad.link/018d9386-bb51-723a-aed8-38a2da3cdf98/"
+  },
+  {
+    "indice": 6,
     "titulo": "Watch_Dogs® 2",
     "precio": "2.49",
     "link": "https://itad.link/018d9386-f3c4-70cf-96b0-c4362450b670/"
+  },
+  {
+    "indice": 7,
+    "titulo": "Rain World",
+    "precio": "2.49",
+    "link": "https://itad.link/018d9386-b5e1-734b-ae7b-8fbdcf574ad3/"
   },
   {
     "indice": 8,
@@ -49,15 +49,15 @@
   },
   {
     "indice": 9,
-    "titulo": "A Plague Tale: Innocence",
-    "precio": "3.99",
-    "link": "https://itad.link/018d9386-241c-719f-aef5-9e1b1fc2cb5d/"
-  },
-  {
-    "indice": 10,
     "titulo": "The Binding of Isaac: Rebirth",
     "precio": "1.49",
     "link": "https://itad.link/018d9386-30ee-7290-adc1-0de4bfd8ac56/"
+  },
+  {
+    "indice": 10,
+    "titulo": "A Plague Tale: Innocence",
+    "precio": "3.99",
+    "link": "https://itad.link/018d9386-241c-719f-aef5-9e1b1fc2cb5d/"
   },
   {
     "indice": 11,
@@ -67,296 +67,296 @@
   },
   {
     "indice": 12,
-    "titulo": "Disco Elysium - The Final Cut",
-    "precio": "3.99",
-    "link": "https://itad.link/018d9386-4e5d-715f-a47b-1577914ee0ae/"
-  },
-  {
-    "indice": 13,
-    "titulo": "Steelrising",
-    "precio": "4.99",
-    "link": "https://itad.link/018d9386-d3a8-73a7-99ac-6ff71858c32d/"
-  },
-  {
-    "indice": 14,
-    "titulo": "Metro 2033 Redux",
-    "precio": "0.99",
-    "link": "https://itad.link/018d9386-96bf-7162-95f0-a5b4f330e603/"
-  },
-  {
-    "indice": 15,
-    "titulo": "Planet Zoo",
-    "precio": "2.24",
-    "link": "https://itad.link/018d9386-af70-7092-9cf4-85fc2758ca9e/"
-  },
-  {
-    "indice": 16,
-    "titulo": "Mass Effect™ Legendary Edition",
-    "precio": "4.79",
-    "link": "https://itad.link/018d9386-93e3-7313-a47a-e099c505c612/"
-  },
-  {
-    "indice": 17,
     "titulo": "Sid Meier's Civilization® VI",
     "precio": "5.99",
     "link": "https://itad.link/018d9386-c7ec-733e-9a3a-4e4f04e24a47/"
   },
   {
-    "indice": 18,
-    "titulo": "Metro Last Light Redux",
-    "precio": "0.99",
-    "link": "https://itad.link/018d9386-96c1-71f7-a88c-1f858dfae7de/"
-  },
-  {
-    "indice": 19,
+    "indice": 13,
     "titulo": "STAR WARS Jedi: Fallen Order™",
     "precio": "3.99",
     "link": "https://itad.link/018d9386-d289-7216-bc21-26c76d35a3cf/"
   },
   {
-    "indice": 20,
-    "titulo": "Assetto Corsa Competizione",
+    "indice": 14,
+    "titulo": "Disco Elysium - The Final Cut",
     "precio": "3.99",
-    "link": "https://itad.link/018d9386-2a7b-71be-ad41-568a3594cede/"
+    "link": "https://itad.link/018d9386-4e5d-715f-a47b-1577914ee0ae/"
   },
   {
-    "indice": 21,
-    "titulo": "Vampyr",
-    "precio": "3.99",
-    "link": "https://itad.link/018d9386-ed45-72c8-a6cd-f603b67ed350/"
+    "indice": 15,
+    "titulo": "Mass Effect™ Legendary Edition",
+    "precio": "4.79",
+    "link": "https://itad.link/018d9386-93e3-7313-a47a-e099c505c612/"
   },
   {
-    "indice": 22,
-    "titulo": "GreedFall",
-    "precio": "3.49",
-    "link": "https://itad.link/018d9386-6f3c-7360-84cc-0b860530d968/"
-  },
-  {
-    "indice": 23,
-    "titulo": "Mordheim: City of the Damned",
-    "precio": "1.99",
-    "link": "https://itad.link/018d9386-9baf-72bb-8837-1a620fa3d826/"
-  },
-  {
-    "indice": 24,
-    "titulo": "GUILTY GEAR Xrd -SIGN",
-    "precio": "2.99",
-    "link": "https://itad.link/018d9386-7018-72dc-aaf0-13f5bd260a31/"
-  },
-  {
-    "indice": 25,
-    "titulo": "Wreckfest",
-    "precio": "2.99",
-    "link": "https://itad.link/018d9386-a28e-7046-bef0-3ff1fa972025/"
-  },
-  {
-    "indice": 26,
-    "titulo": "Dead Island 2",
-    "precio": "4.99",
-    "link": "https://itad.link/018f0652-76be-737e-b06c-d977f3b500d5/"
-  },
-  {
-    "indice": 27,
-    "titulo": "Styx: Shards of Darkness",
-    "precio": "1.99",
-    "link": "https://itad.link/018d9386-d615-7173-991a-488307e2913c/"
-  },
-  {
-    "indice": 28,
-    "titulo": "Electrician Simulator",
-    "precio": "1.07",
-    "link": "https://itad.link/018d9386-56ed-70eb-850a-2c61a2a24803/"
-  },
-  {
-    "indice": 29,
-    "titulo": "Clash: Artifacts of Chaos",
-    "precio": "2.99",
-    "link": "https://itad.link/018d9386-3e80-729c-88c5-c4fd64031bfb/"
-  },
-  {
-    "indice": 30,
-    "titulo": "Frostpunk",
-    "precio": "2.99",
-    "link": "https://itad.link/018d9386-68bb-7338-9df4-7503cdad65b1/"
-  },
-  {
-    "indice": 31,
-    "titulo": "Bloodstained: Ritual of the Night",
-    "precio": "3.99",
-    "link": "https://itad.link/018d9386-3328-722a-8c49-38c7dbca1809/"
-  },
-  {
-    "indice": 32,
-    "titulo": "Eldest Souls",
-    "precio": "1.99",
-    "link": "https://itad.link/018d9386-56eb-73bf-80fa-0fa48b0348a8/"
-  },
-  {
-    "indice": 33,
-    "titulo": "Röki",
-    "precio": "1.99",
-    "link": "https://itad.link/018d9386-bd5a-7375-a988-bb17a4327ad5/"
-  },
-  {
-    "indice": 34,
-    "titulo": "Outcast - Second Contact",
-    "precio": "1.49",
-    "link": "https://itad.link/018d9386-a7d6-72e9-b7e8-4a938d221894/"
-  },
-  {
-    "indice": 35,
-    "titulo": "Ad Infinitum",
-    "precio": "3.49",
-    "link": "https://itad.link/018d9386-112d-733e-8f95-60e0345b9528/"
-  },
-  {
-    "indice": 36,
-    "titulo": "Beyond Two Souls",
-    "precio": "1.99",
-    "link": "https://itad.link/018d9386-30df-7227-9b99-153712b491f3/"
-  },
-  {
-    "indice": 37,
+    "indice": 16,
     "titulo": "The Witcher 3: Wild Hunt",
     "precio": "3.99",
     "link": "https://itad.link/018d9386-f72d-7282-ba92-7e682f310719/"
   },
   {
-    "indice": 38,
-    "titulo": "Nickelodeon All-Star Brawl",
-    "precio": "2.49",
-    "link": "https://itad.link/018d9386-a294-722b-a82c-51b6803d9e33/"
+    "indice": 17,
+    "titulo": "Metro 2033 Redux",
+    "precio": "0.99",
+    "link": "https://itad.link/018d9386-96bf-7162-95f0-a5b4f330e603/"
   },
   {
-    "indice": 39,
-    "titulo": "InnerSpace",
-    "precio": "1.99",
-    "link": "https://itad.link/018d9386-7f6e-71e2-8dfa-c8e4ae9422aa/"
+    "indice": 18,
+    "titulo": "Planet Zoo",
+    "precio": "2.24",
+    "link": "https://itad.link/018d9386-af70-7092-9cf4-85fc2758ca9e/"
   },
   {
-    "indice": 40,
-    "titulo": "The Daedalic Armageddon Bundle",
-    "precio": "4.99",
-    "link": "https://itad.link/018d9386-46b7-716a-85f8-20ebe505e4e7/"
+    "indice": 19,
+    "titulo": "Electrician Simulator",
+    "precio": "1.07",
+    "link": "https://itad.link/018d9386-56ed-70eb-850a-2c61a2a24803/"
   },
   {
-    "indice": 41,
-    "titulo": "Styx: Master of Shadows",
-    "precio": "1.99",
-    "link": "https://itad.link/018d9386-d614-711c-9db6-27ff5990a6c7/"
-  },
-  {
-    "indice": 42,
-    "titulo": "Deus Ex: Mankind Divided",
-    "precio": "2.99",
-    "link": "https://itad.link/018d9386-4c1d-7232-8cb2-214d896ea381/"
-  },
-  {
-    "indice": 43,
-    "titulo": "The Way",
-    "precio": "1.04",
-    "link": "https://itad.link/018d9386-f4c6-7036-8d8f-602152b2afd6/"
-  },
-  {
-    "indice": 44,
-    "titulo": "Othercide®",
-    "precio": "2.99",
-    "link": "https://itad.link/018d9386-a71c-72c5-bbc8-d06a8c4dc04c/"
-  },
-  {
-    "indice": 45,
+    "indice": 20,
     "titulo": "Dead Space (2023)",
     "precio": "5.99",
     "link": "https://itad.link/018d9386-4a2a-7092-ba44-845a67389e16/"
   },
   {
-    "indice": 46,
-    "titulo": "Watch_Dogs",
-    "precio": "1.99",
-    "link": "https://itad.link/018d9386-f3c0-7327-bc69-424254767f65/"
+    "indice": 21,
+    "titulo": "Metro Last Light Redux",
+    "precio": "0.99",
+    "link": "https://itad.link/018d9386-96c1-71f7-a88c-1f858dfae7de/"
   },
   {
-    "indice": 47,
-    "titulo": "The Repair House: Restoration Sim",
-    "precio": "1.99",
-    "link": "https://itad.link/018d9386-b7d8-7306-9579-2f22c03044f4/"
-  },
-  {
-    "indice": 48,
-    "titulo": "The Surge 2",
+    "indice": 22,
+    "titulo": "Wreckfest",
     "precio": "2.99",
-    "link": "https://itad.link/018d9386-d84b-7092-bc22-898d83e37506/"
+    "link": "https://itad.link/018d9386-a28e-7046-bef0-3ff1fa972025/"
   },
   {
-    "indice": 49,
-    "titulo": "Heavy Rain",
-    "precio": "1.99",
-    "link": "https://itad.link/018d9386-7223-7320-84f1-836e86fcc8ea/"
-  },
-  {
-    "indice": 50,
-    "titulo": "Ghosts 'n Goblins Resurrection",
+    "indice": 23,
+    "titulo": "GUILTY GEAR Xrd -SIGN",
     "precio": "2.99",
-    "link": "https://itad.link/018d9386-6bc7-72fd-b13a-0019be2bddf3/"
+    "link": "https://itad.link/018d9386-7018-72dc-aaf0-13f5bd260a31/"
   },
   {
-    "indice": 51,
-    "titulo": "Heads Up! Phones Down Edition!",
-    "precio": "1.99",
-    "link": "https://itad.link/018d9386-7207-720e-bb0a-5af5392b75d2/"
-  },
-  {
-    "indice": 52,
+    "indice": 24,
     "titulo": "Barony",
     "precio": "1.99",
     "link": "https://itad.link/018d9386-2d8f-7040-99c8-9f58f2919c44/"
   },
   {
-    "indice": 53,
-    "titulo": "Chorus",
+    "indice": 25,
+    "titulo": "Röki",
+    "precio": "1.99",
+    "link": "https://itad.link/018d9386-bd5a-7375-a988-bb17a4327ad5/"
+  },
+  {
+    "indice": 26,
+    "titulo": "The Red Lantern",
     "precio": "2.49",
-    "link": "https://itad.link/018d9386-7b02-7385-8924-4c619e2ff32d/"
+    "link": "https://itad.link/018d9386-b710-73d4-b298-ac11ef427d59/"
   },
   {
-    "indice": 54,
-    "titulo": "Green Hell",
-    "precio": "2.49",
-    "link": "https://itad.link/0191c321-1d7a-70b3-80b3-9e3e2ca2cdc7/"
+    "indice": 27,
+    "titulo": "Steelrising",
+    "precio": "4.99",
+    "link": "https://itad.link/018d9386-d3a8-73a7-99ac-6ff71858c32d/"
   },
   {
-    "indice": 55,
-    "titulo": "Middle-earth™: The Shadow Bundle",
-    "precio": "6.99",
-    "link": "https://itad.link/018d9386-9810-7290-9301-d08a274e947d/"
+    "indice": 28,
+    "titulo": "Mordheim: City of the Damned",
+    "precio": "1.99",
+    "link": "https://itad.link/018d9386-9baf-72bb-8837-1a620fa3d826/"
   },
   {
-    "indice": 56,
-    "titulo": "Crown Wars: The Black Prince",
+    "indice": 29,
+    "titulo": "The Daedalic Armageddon Bundle",
+    "precio": "4.99",
+    "link": "https://itad.link/018d9386-46b7-716a-85f8-20ebe505e4e7/"
+  },
+  {
+    "indice": 30,
+    "titulo": "Assetto Corsa Competizione",
     "precio": "3.99",
-    "link": "https://itad.link/018fa63c-5b6b-7074-9658-0eb1f26a93dc/"
+    "link": "https://itad.link/018d9386-2a7b-71be-ad41-568a3594cede/"
   },
   {
-    "indice": 57,
+    "indice": 31,
+    "titulo": "Vampyr",
+    "precio": "3.99",
+    "link": "https://itad.link/018d9386-ed45-72c8-a6cd-f603b67ed350/"
+  },
+  {
+    "indice": 32,
+    "titulo": "The Repair House: Restoration Sim",
+    "precio": "1.99",
+    "link": "https://itad.link/018d9386-b7d8-7306-9579-2f22c03044f4/"
+  },
+  {
+    "indice": 33,
+    "titulo": "InnerSpace",
+    "precio": "1.99",
+    "link": "https://itad.link/018d9386-7f6e-71e2-8dfa-c8e4ae9422aa/"
+  },
+  {
+    "indice": 34,
+    "titulo": "Nickelodeon All-Star Brawl",
+    "precio": "2.49",
+    "link": "https://itad.link/018d9386-a294-722b-a82c-51b6803d9e33/"
+  },
+  {
+    "indice": 35,
     "titulo": "Torn",
     "precio": "2.99",
     "link": "https://itad.link/018d9386-e306-702a-bc8c-f8f7d820a09e/"
   },
   {
-    "indice": 58,
-    "titulo": "Warhammer: Chaosbane",
+    "indice": 36,
+    "titulo": "Eldest Souls",
+    "precio": "1.99",
+    "link": "https://itad.link/018d9386-56eb-73bf-80fa-0fa48b0348a8/"
+  },
+  {
+    "indice": 37,
+    "titulo": "The Incredible Adventures of Van Helsing Anthology",
+    "precio": "7.49",
+    "link": "https://itad.link/018d9386-7e10-716f-aeb4-54a612c66390/"
+  },
+  {
+    "indice": 38,
+    "titulo": "The Way",
+    "precio": "1.04",
+    "link": "https://itad.link/018d9386-f4c6-7036-8d8f-602152b2afd6/"
+  },
+  {
+    "indice": 39,
+    "titulo": "Dead Island 2",
+    "precio": "4.99",
+    "link": "https://itad.link/018f0652-76be-737e-b06c-d977f3b500d5/"
+  },
+  {
+    "indice": 40,
+    "titulo": "Bloodstained: Ritual of the Night",
+    "precio": "3.99",
+    "link": "https://itad.link/018d9386-3328-722a-8c49-38c7dbca1809/"
+  },
+  {
+    "indice": 41,
+    "titulo": "GreedFall",
+    "precio": "3.49",
+    "link": "https://itad.link/018d9386-6f3c-7360-84cc-0b860530d968/"
+  },
+  {
+    "indice": 42,
+    "titulo": "Wild Animals Transporter",
+    "precio": "0.99",
+    "link": "https://itad.link/018e714e-f21d-727a-a896-e9b3e31750b1/"
+  },
+  {
+    "indice": 43,
+    "titulo": "Heads Up! Phones Down Edition!",
+    "precio": "1.99",
+    "link": "https://itad.link/018d9386-7207-720e-bb0a-5af5392b75d2/"
+  },
+  {
+    "indice": 44,
+    "titulo": "Call of Duty®: Modern Warfare® II",
+    "precio": "6.99",
+    "link": "https://itad.link/018d9386-38a5-7099-b190-f2728d58f965/"
+  },
+  {
+    "indice": 45,
+    "titulo": "Outcast - Second Contact",
     "precio": "1.49",
-    "link": "https://itad.link/018d9386-f260-736d-a10f-85d9fb8a01b4/"
+    "link": "https://itad.link/018d9386-a7d6-72e9-b7e8-4a938d221894/"
+  },
+  {
+    "indice": 46,
+    "titulo": "Funko Fusion",
+    "precio": "1.74",
+    "link": "https://itad.link/0191eb4f-3939-73fb-b947-6209bb4169ad/"
+  },
+  {
+    "indice": 47,
+    "titulo": "Deus Ex: Mankind Divided",
+    "precio": "2.99",
+    "link": "https://itad.link/018d9386-4c1d-7232-8cb2-214d896ea381/"
+  },
+  {
+    "indice": 48,
+    "titulo": "Splasher",
+    "precio": "1.49",
+    "link": "https://itad.link/018d9386-cff4-738b-acb7-5831ec2d2a06/"
+  },
+  {
+    "indice": 49,
+    "titulo": "Roguebook",
+    "precio": "2.49",
+    "link": "https://itad.link/018d9386-bca7-71e9-9a42-9fd72482a583/"
+  },
+  {
+    "indice": 50,
+    "titulo": "Middle-earth™: The Shadow Bundle",
+    "precio": "6.99",
+    "link": "https://itad.link/018d9386-9810-7290-9301-d08a274e947d/"
+  },
+  {
+    "indice": 51,
+    "titulo": "Clash: Artifacts of Chaos",
+    "precio": "2.99",
+    "link": "https://itad.link/018d9386-3e80-729c-88c5-c4fd64031bfb/"
+  },
+  {
+    "indice": 52,
+    "titulo": "Suicide Squad: Kill the Justice League - Digital Deluxe Edition",
+    "precio": "4.99",
+    "link": "https://itad.link/018d9386-d62a-720c-8011-b872b0ad1b10/"
+  },
+  {
+    "indice": 53,
+    "titulo": "CARRION",
+    "precio": "1.99",
+    "link": "https://itad.link/018d9386-3b99-7379-bc12-b4e556e7e0db/"
+  },
+  {
+    "indice": 54,
+    "titulo": "Police Shootout",
+    "precio": "1.04",
+    "link": "https://itad.link/018d9386-af96-72d1-a9a6-29ccd185f384/"
+  },
+  {
+    "indice": 55,
+    "titulo": "Beyond Two Souls",
+    "precio": "1.99",
+    "link": "https://itad.link/018d9386-30df-7227-9b99-153712b491f3/"
+  },
+  {
+    "indice": 56,
+    "titulo": "Warhammer: Vermintide 2",
+    "precio": "2.99",
+    "link": "https://itad.link/018d9386-f28c-711b-89f2-59d1f002084a/"
+  },
+  {
+    "indice": 57,
+    "titulo": "Styx: Master of Shadows",
+    "precio": "1.99",
+    "link": "https://itad.link/018d9386-d614-711c-9db6-27ff5990a6c7/"
+  },
+  {
+    "indice": 58,
+    "titulo": "Sonic Mania",
+    "precio": "1.99",
+    "link": "https://itad.link/018d9386-cd31-724b-afcb-ab29eaf01759/"
   },
   {
     "indice": 59,
-    "titulo": "Of Orcs and Men",
-    "precio": "1.49",
-    "link": "https://itad.link/018d9386-a512-7340-9b9a-c50c3587ff8b/"
-  },
-  {
-    "indice": 60,
     "titulo": "Unbox",
     "precio": "1.99",
     "link": "https://itad.link/018d9386-eb51-7165-94ae-7d4e32dbfe66/"
+  },
+  {
+    "indice": 60,
+    "titulo": "DRAGON BALL XENOVERSE 2",
+    "precio": "1.99",
+    "link": "https://itad.link/018d9386-518f-72ef-907c-945dc8779448/"
   }
 ]
