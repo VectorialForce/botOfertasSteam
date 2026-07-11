@@ -1,1 +1,362 @@
-[]
+[
+  {
+    "indice": 1,
+    "titulo": "Planet Zoo",
+    "precio": "2.24",
+    "link": "https://itad.link/018d9386-af70-7092-9cf4-85fc2758ca9e/"
+  },
+  {
+    "indice": 2,
+    "titulo": "Dead Island 2",
+    "precio": "4.99",
+    "link": "https://itad.link/018f0652-76be-737e-b06c-d977f3b500d5/"
+  },
+  {
+    "indice": 3,
+    "titulo": "Digimon Story Cyber Sleuth: Complete Edition",
+    "precio": "4.99",
+    "link": "https://itad.link/018d9386-4d2c-71dd-9949-aa3edaf97be0/"
+  },
+  {
+    "indice": 4,
+    "titulo": "Breathedge",
+    "precio": "2.49",
+    "link": "https://itad.link/018d9386-36ba-70fd-a560-53df9b601022/"
+  },
+  {
+    "indice": 5,
+    "titulo": "Watch_Dogs® 2",
+    "precio": "2.49",
+    "link": "https://itad.link/018d9386-f3c4-70cf-96b0-c4362450b670/"
+  },
+  {
+    "indice": 6,
+    "titulo": "SOULCALIBUR VI",
+    "precio": "5.99",
+    "link": "https://itad.link/018d9386-cd3e-72e1-b0f7-c85d27416fe2/"
+  },
+  {
+    "indice": 7,
+    "titulo": "Chorus",
+    "precio": "2.49",
+    "link": "https://itad.link/018d9386-7b02-7385-8924-4c619e2ff32d/"
+  },
+  {
+    "indice": 8,
+    "titulo": "Eldest Souls",
+    "precio": "1.99",
+    "link": "https://itad.link/018d9386-56eb-73bf-80fa-0fa48b0348a8/"
+  },
+  {
+    "indice": 9,
+    "titulo": "GOD EATER 3",
+    "precio": "5.99",
+    "link": "https://itad.link/018d9386-6c90-72f5-95d7-371fe8f97a52/"
+  },
+  {
+    "indice": 10,
+    "titulo": "GOD EATER 2 Rage Burst",
+    "precio": "4.99",
+    "link": "https://itad.link/018d9386-6c91-7007-9ba5-858026e2ab00/"
+  },
+  {
+    "indice": 11,
+    "titulo": "Scars Above",
+    "precio": "2.99",
+    "link": "https://itad.link/018d9386-c277-7229-b13a-7bf97ed890a1/"
+  },
+  {
+    "indice": 12,
+    "titulo": "Encased: a sci-fi post-apocalyptic RPG",
+    "precio": "2.99",
+    "link": "https://itad.link/018d9386-581c-72ff-ac63-a2d15c1fd0d3/"
+  },
+  {
+    "indice": 13,
+    "titulo": "The Wild Eight",
+    "precio": "2.49",
+    "link": "https://itad.link/018d9386-f60e-70fe-8adc-f64ef5986153/"
+  },
+  {
+    "indice": 14,
+    "titulo": "Röki",
+    "precio": "1.99",
+    "link": "https://itad.link/018d9386-bd5a-7375-a988-bb17a4327ad5/"
+  },
+  {
+    "indice": 15,
+    "titulo": "Remember Me",
+    "precio": "2.99",
+    "link": "https://itad.link/018d9386-b7cf-71c6-a62f-f594da33c89c/"
+  },
+  {
+    "indice": 16,
+    "titulo": "Bridge Constructor Portal",
+    "precio": "0.99",
+    "link": "https://itad.link/018d9386-36c1-702a-a5fc-f9434b20cc41/"
+  },
+  {
+    "indice": 17,
+    "titulo": "Homeworld: Deserts of Kharak",
+    "precio": "4.99",
+    "link": "https://itad.link/018d9386-76bb-724e-9e34-3d96b97e3f23/"
+  },
+  {
+    "indice": 18,
+    "titulo": "Homefront®: The Revolution",
+    "precio": "1.99",
+    "link": "https://itad.link/018d9386-75aa-72a2-af85-f0a95ea93297/"
+  },
+  {
+    "indice": 19,
+    "titulo": "Tinkertown",
+    "precio": "1.52",
+    "link": "https://itad.link/018d9386-df73-710d-ae0a-2640ebd8cbc7/"
+  },
+  {
+    "indice": 20,
+    "titulo": "Saint's Row The Third Remastered",
+    "precio": "2.99",
+    "link": "https://itad.link/018d9386-c0c1-73d5-8462-d9e216b557e0/"
+  },
+  {
+    "indice": 21,
+    "titulo": "Layers of Fear 2 (2019)",
+    "precio": "1.99",
+    "link": "https://itad.link/018d9386-89d3-72fc-8def-80e4885fc303/"
+  },
+  {
+    "indice": 22,
+    "titulo": "Dead Age",
+    "precio": "1.49",
+    "link": "https://itad.link/018d9386-4925-73f5-8808-7bc083ecf23a/"
+  },
+  {
+    "indice": 23,
+    "titulo": "Sniper Ghost Warrior 3",
+    "precio": "1.99",
+    "link": "https://itad.link/018d9386-cbf8-722d-89b5-2e0ba464c8b1/"
+  },
+  {
+    "indice": 24,
+    "titulo": "One Piece Burning Blood",
+    "precio": "4.99",
+    "link": "https://itad.link/018d9386-a5ee-7372-b705-7959847de22a/"
+  },
+  {
+    "indice": 25,
+    "titulo": "Roguebook",
+    "precio": "1.74",
+    "link": "https://itad.link/018d9386-bca7-71e9-9a42-9fd72482a583/"
+  },
+  {
+    "indice": 26,
+    "titulo": "The Chant",
+    "precio": "2.49",
+    "link": "https://itad.link/018d9386-7983-72c1-af20-5f04c1daae13/"
+  },
+  {
+    "indice": 27,
+    "titulo": "Minute of Islands",
+    "precio": "1.99",
+    "link": "https://itad.link/018d9386-9954-71f3-92ff-798b16dfb222/"
+  },
+  {
+    "indice": 28,
+    "titulo": "Sniper Ghost Warrior Contracts 2",
+    "precio": "3.99",
+    "link": "https://itad.link/018d9386-cb4e-716f-8718-c585ea2a234f/"
+  },
+  {
+    "indice": 29,
+    "titulo": "Silver Chains",
+    "precio": "1.74",
+    "link": "https://itad.link/018d9386-c90d-71bc-9e71-2802e37c4a25/"
+  },
+  {
+    "indice": 30,
+    "titulo": "WRC Generations - The FIA WRC Official Game",
+    "precio": "3.99",
+    "link": "https://itad.link/018d9386-f832-7379-8139-b08681d20283/"
+  },
+  {
+    "indice": 31,
+    "titulo": "ONE PIECE World Seeker",
+    "precio": "5.99",
+    "link": "https://itad.link/018d9386-a6f0-7302-aae2-a6be5be8f557/"
+  },
+  {
+    "indice": 32,
+    "titulo": "Killer is Dead - Nightmare Edition",
+    "precio": "1.99",
+    "link": "https://itad.link/018d9386-861c-7345-94eb-b9fc282671c4/"
+  },
+  {
+    "indice": 33,
+    "titulo": "Homeworld Remastered Collection",
+    "precio": "3.49",
+    "link": "https://itad.link/018d9386-76bd-7042-a29b-a16b5ed58076/"
+  },
+  {
+    "indice": 34,
+    "titulo": "Slime-san: Superslime Edition",
+    "precio": "1.49",
+    "link": "https://itad.link/018d9386-cb2c-70ca-880b-a25305ccd5a2/"
+  },
+  {
+    "indice": 35,
+    "titulo": "The Inner World",
+    "precio": "1.49",
+    "link": "https://itad.link/018d9386-7f6f-73e0-aa21-a40e09140f2e/"
+  },
+  {
+    "indice": 36,
+    "titulo": ">observer_",
+    "precio": "2.99",
+    "link": "https://itad.link/019ba50a-d511-71d3-8d6a-0833e9fd5eec/"
+  },
+  {
+    "indice": 37,
+    "titulo": "Tower Hunter:Erza's Trial",
+    "precio": "1.43",
+    "link": "https://itad.link/018d9386-e3e5-73cd-b4b6-9551e9748ebc/"
+  },
+  {
+    "indice": 38,
+    "titulo": "Everreach: Project Eden",
+    "precio": "1.49",
+    "link": "https://itad.link/018d9386-5b5a-734c-95d0-8ae06668a34f/"
+  },
+  {
+    "indice": 39,
+    "titulo": "Super Dragon Ball Heroes World Mission",
+    "precio": "5.99",
+    "link": "https://itad.link/018d9386-d76f-7179-b65f-5290aae37ed6/"
+  },
+  {
+    "indice": 40,
+    "titulo": "Great Houses of Calderia",
+    "precio": "1.49",
+    "link": "https://itad.link/018d9386-6f38-70ec-a3b9-6465dcaeb4d7/"
+  },
+  {
+    "indice": 41,
+    "titulo": "Sparklite",
+    "precio": "2.49",
+    "link": "https://itad.link/018d9386-cf23-73c0-a96e-626392d6348b/"
+  },
+  {
+    "indice": 42,
+    "titulo": "Bendy and the Ink Machine",
+    "precio": "1.99",
+    "link": "https://itad.link/018d9386-2f9f-70f0-903d-2800f4b3ad56/"
+  },
+  {
+    "indice": 43,
+    "titulo": "Escape from Naraka",
+    "precio": "1.49",
+    "link": "https://itad.link/018d9386-5926-72f6-938f-cdf8b2a37095/"
+  },
+  {
+    "indice": 44,
+    "titulo": "Cardaclysm",
+    "precio": "1.49",
+    "link": "https://itad.link/018d9386-39fc-7143-9232-6ee096a42a99/"
+  },
+  {
+    "indice": 45,
+    "titulo": "Layers of Fear (2016)",
+    "precio": "1.99",
+    "link": "https://itad.link/018d9386-89d3-72fc-8def-80e4a429ab5b/"
+  },
+  {
+    "indice": 46,
+    "titulo": "Dead Island Riptide Definitive Edition",
+    "precio": "1.99",
+    "link": "https://itad.link/018d9386-493c-70e8-852d-2f4be24e570b/"
+  },
+  {
+    "indice": 47,
+    "titulo": "ITORAH",
+    "precio": "1.99",
+    "link": "https://itad.link/018d9386-81d2-738d-9444-d5be35743439/"
+  },
+  {
+    "indice": 48,
+    "titulo": "OUTBUDDIES DX",
+    "precio": "1.79",
+    "link": "https://itad.link/018d9386-a7d4-729c-945a-77d1c29f7d62/"
+  },
+  {
+    "indice": 49,
+    "titulo": "Bridge Constructor: The Walking Dead",
+    "precio": "0.99",
+    "link": "https://itad.link/018d9386-36c3-7097-a52e-c10f93d82cdd/"
+  },
+  {
+    "indice": 50,
+    "titulo": "Watch_Dogs® 2 Gold Edition",
+    "precio": "3.99",
+    "link": "https://itad.link/018d9386-f3c6-702f-ab05-f6974a08ac05/"
+  },
+  {
+    "indice": 51,
+    "titulo": "Sniper Ghost Warrior 2",
+    "precio": "0.99",
+    "link": "https://itad.link/018d9386-cbf7-7316-a44e-4ba27c081364/"
+  },
+  {
+    "indice": 52,
+    "titulo": "Alex Kidd in Miracle World DX",
+    "precio": "1.99",
+    "link": "https://itad.link/018d9386-1f0d-71d6-b6b8-23764b68e260/"
+  },
+  {
+    "indice": 53,
+    "titulo": "The Fabled Woods",
+    "precio": "0.99",
+    "link": "https://itad.link/018d9386-5cfe-7388-abaf-bd49cbbc87ba/"
+  },
+  {
+    "indice": 54,
+    "titulo": "ONE PUNCH MAN: A HERO NOBODY KNOWS",
+    "precio": "5.99",
+    "link": "https://itad.link/018d9386-a6f2-72ee-a490-3e751c8274f2/"
+  },
+  {
+    "indice": 55,
+    "titulo": "Planet Zoo Deluxe Edition",
+    "precio": "2.74",
+    "link": "https://itad.link/018d9386-af73-7202-86e9-6a96fc019af0/"
+  },
+  {
+    "indice": 56,
+    "titulo": "Kingdom: New Lands",
+    "precio": "1.49",
+    "link": "https://itad.link/018d9386-8631-7224-bab8-f7d27e423576/"
+  },
+  {
+    "indice": 57,
+    "titulo": "Vessels of Decay",
+    "precio": "1.79",
+    "link": "https://itad.link/019789fe-5e0c-7201-982e-56013776a08e/"
+  },
+  {
+    "indice": 58,
+    "titulo": "Windscape",
+    "precio": "1.99",
+    "link": "https://itad.link/018d9386-f61a-712b-9283-9530345bc2c8/"
+  },
+  {
+    "indice": 59,
+    "titulo": "Bridge Constructor",
+    "precio": "0.99",
+    "link": "https://itad.link/018d9386-36c0-70f6-a197-4c7da04408e2/"
+  },
+  {
+    "indice": 60,
+    "titulo": "CODE VEIN Deluxe Edition",
+    "precio": "7.99",
+    "link": "https://itad.link/018d9386-3ea4-7046-99ee-ba5e9bdf7b37/"
+  }
+]
