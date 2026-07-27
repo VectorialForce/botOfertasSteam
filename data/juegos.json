@@ -7,356 +7,356 @@
   },
   {
     "indice": 2,
+    "titulo": "RoboCop: Rogue City",
+    "precio": "3.99",
+    "link": "https://itad.link/018d9386-bb51-723a-aed8-38a2da3cdf98/"
+  },
+  {
+    "indice": 3,
     "titulo": "Sid Meier's Civilization® VI",
     "precio": "5.99",
     "link": "https://itad.link/018d9386-c7ec-733e-9a3a-4e4f04e24a47/"
   },
   {
-    "indice": 3,
+    "indice": 4,
     "titulo": "The Mound: Omen of Cthulhu - Lost Explorers' Swords Pack",
     "precio": "0.00",
     "link": "https://itad.link/019f6546-0e5e-7359-a9de-93a24fc0397c/"
   },
   {
-    "indice": 4,
-    "titulo": "Shadow Warrior 2",
-    "precio": "2.99",
-    "link": "https://itad.link/018d9386-c4ba-7230-877e-a77a9766fe92/"
+    "indice": 5,
+    "titulo": "LEGO The Incredibles",
+    "precio": "3.99",
+    "link": "https://itad.link/018d9386-8b3c-7002-9cd2-a13f6b4cb958/"
   },
   {
-    "indice": 5,
+    "indice": 6,
     "titulo": "Shadow Tactics: Blades of the Shogun",
     "precio": "3.99",
     "link": "https://itad.link/018d9386-c4b8-73ab-aa45-072759b04fcb/"
   },
   {
-    "indice": 6,
-    "titulo": "Styx: Shards of Darkness",
-    "precio": "1.99",
-    "link": "https://itad.link/018d9386-d615-7173-991a-488307e2913c/"
-  },
-  {
     "indice": 7,
-    "titulo": "MORTAL KOMBAT 11",
-    "precio": "4.99",
-    "link": "https://itad.link/018d9386-9bb5-7349-a078-05fc588be27a/"
+    "titulo": "Borderlands 3",
+    "precio": "5.99",
+    "link": "https://itad.link/018d9386-357e-72d3-9206-0bac6de0cd43/"
   },
   {
     "indice": 8,
-    "titulo": "A Plague Tale: Innocence",
-    "precio": "3.99",
-    "link": "https://itad.link/018d9386-241c-719f-aef5-9e1b1fc2cb5d/"
-  },
-  {
-    "indice": 9,
-    "titulo": "Styx: Master of Shadows",
-    "precio": "1.99",
-    "link": "https://itad.link/018d9386-d614-711c-9db6-27ff5990a6c7/"
-  },
-  {
-    "indice": 10,
-    "titulo": "Iratus: Lord of the Dead",
-    "precio": "2.99",
-    "link": "https://itad.link/018d9386-81b7-7098-94dc-ad57e9ef4248/"
-  },
-  {
-    "indice": 11,
-    "titulo": "Beat Cop",
-    "precio": "1.49",
-    "link": "https://itad.link/018d9386-2f89-73aa-8bbf-5c7c7a95ce5b/"
-  },
-  {
-    "indice": 12,
-    "titulo": "Warhammer: Chaosbane",
-    "precio": "1.49",
-    "link": "https://itad.link/018d9386-f260-736d-a10f-85d9fb8a01b4/"
-  },
-  {
-    "indice": 13,
-    "titulo": "Shadow Warrior",
-    "precio": "2.99",
-    "link": "https://itad.link/018d9386-c4b9-72af-9a80-da8016476f25/"
-  },
-  {
-    "indice": 14,
-    "titulo": "Call of Juarez: Gunslinger",
-    "precio": "1.49",
-    "link": "https://itad.link/018d9386-39df-70bd-9ff0-ff244148acb1/"
-  },
-  {
-    "indice": 15,
-    "titulo": "Code Vein",
-    "precio": "5.99",
-    "link": "https://itad.link/018d9386-3ea4-7046-99ee-ba5e81d6a09b/"
-  },
-  {
-    "indice": 16,
-    "titulo": "War Hospital",
-    "precio": "2.99",
-    "link": "https://itad.link/018d9386-f39d-719a-9489-ffe6e617cd91/"
-  },
-  {
-    "indice": 17,
-    "titulo": "WRC 8 FIA World Rally Championship",
-    "precio": "2.99",
-    "link": "https://itad.link/018d9386-f966-7308-add8-95648dc23d43/"
-  },
-  {
-    "indice": 18,
-    "titulo": "Titan Souls",
-    "precio": "1.49",
-    "link": "https://itad.link/018d9386-e02c-71fe-8686-8729ed49fd88/"
-  },
-  {
-    "indice": 19,
-    "titulo": "Märchen Forest",
-    "precio": "3.49",
-    "link": "https://itad.link/018d9386-9324-7103-baa3-af1d9e410824/"
-  },
-  {
-    "indice": 20,
-    "titulo": "Wing of Darkness",
-    "precio": "2.99",
-    "link": "https://itad.link/018d9386-f61c-73c4-951d-425ad922ea32/"
-  },
-  {
-    "indice": 21,
-    "titulo": "Werewolf: The Apocalypse - Earthblood",
-    "precio": "2.99",
-    "link": "https://itad.link/018d9386-f4da-71ae-9a80-f6435a9638fd/"
-  },
-  {
-    "indice": 22,
-    "titulo": "The Last Campfire",
-    "precio": "1.49",
-    "link": "https://itad.link/018d9386-89b8-7090-bb5d-04bfc02092b5/"
-  },
-  {
-    "indice": 23,
-    "titulo": "Saturnalia",
-    "precio": "2.99",
-    "link": "https://itad.link/018d9386-c0e0-709c-b62e-b597f09f033f/"
-  },
-  {
-    "indice": 24,
-    "titulo": "Vampyr",
-    "precio": "3.99",
-    "link": "https://itad.link/018d9386-ed45-72c8-a6cd-f603b67ed350/"
-  },
-  {
-    "indice": 25,
     "titulo": "GreedFall",
     "precio": "3.49",
     "link": "https://itad.link/018d9386-6f3c-7360-84cc-0b860530d968/"
   },
   {
-    "indice": 26,
-    "titulo": "Bulletstorm: Full Clip Edition",
+    "indice": 9,
+    "titulo": "Styx: Shards of Darkness",
+    "precio": "1.99",
+    "link": "https://itad.link/018d9386-d615-7173-991a-488307e2913c/"
+  },
+  {
+    "indice": 10,
+    "titulo": "Hitman Absolution",
+    "precio": "1.99",
+    "link": "https://itad.link/018d9386-7589-73d0-b019-c9fa1ae706a9/"
+  },
+  {
+    "indice": 11,
+    "titulo": "Tales of Zestiria",
+    "precio": "4.99",
+    "link": "https://itad.link/018d9386-daba-71a5-aa93-4680f4bd5404/"
+  },
+  {
+    "indice": 12,
+    "titulo": "Hitman Blood Money",
+    "precio": "0.99",
+    "link": "https://itad.link/018d9386-758b-7102-b8ed-ce2f873948ea/"
+  },
+  {
+    "indice": 13,
+    "titulo": "Borderlands: The Pre-Sequel",
     "precio": "3.99",
-    "link": "https://itad.link/018d9386-37c9-701a-a214-4c3119354850/"
+    "link": "https://itad.link/018d9386-359a-731e-832a-62d8c7799907/"
   },
   {
-    "indice": 27,
-    "titulo": "Insurmountable",
-    "precio": "2.49",
-    "link": "https://itad.link/018d9386-7f82-7266-9800-7ec434cc1653/"
+    "indice": 14,
+    "titulo": "Suicide Squad: Kill the Justice League",
+    "precio": "3.49",
+    "link": "https://itad.link/018d9386-d62a-720c-8011-b8729b9f023f/"
   },
   {
-    "indice": 28,
+    "indice": 15,
+    "titulo": "Styx: Master of Shadows",
+    "precio": "1.99",
+    "link": "https://itad.link/018d9386-d614-711c-9db6-27ff5990a6c7/"
+  },
+  {
+    "indice": 16,
+    "titulo": "Riders Republic",
+    "precio": "3.99",
+    "link": "https://itad.link/018d9386-b9b8-725e-997e-2a6dc2ee4328/"
+  },
+  {
+    "indice": 17,
     "titulo": "Valfaris",
     "precio": "2.49",
     "link": "https://itad.link/018d9386-ed34-7266-9f74-6745485ad59f/"
   },
   {
-    "indice": 29,
-    "titulo": "INDUSTRIA",
-    "precio": "1.99",
-    "link": "https://itad.link/018d9386-7e1b-7372-931f-d54f9fb2eb9c/"
-  },
-  {
-    "indice": 30,
-    "titulo": "Distrust",
-    "precio": "1.29",
-    "link": "https://itad.link/018d9386-4f7b-72c7-a412-b58d0ce252f6/"
-  },
-  {
-    "indice": 31,
-    "titulo": "Destiny 2: The Final Shape",
-    "precio": "1.99",
-    "link": "https://itad.link/01902c58-bcdb-734b-a87b-34df3b718598/"
-  },
-  {
-    "indice": 32,
-    "titulo": "shapez",
-    "precio": "0.99",
-    "link": "https://itad.link/018d9386-c568-73c4-ad63-ff5741d8d783/"
-  },
-  {
-    "indice": 33,
-    "titulo": "Steelrising - Bastille Edition",
-    "precio": "5.99",
-    "link": "https://itad.link/018d9386-d3a8-73a7-99ac-6ff72aad9cd2/"
-  },
-  {
-    "indice": 34,
-    "titulo": "Beholder",
-    "precio": "1.39",
-    "link": "https://itad.link/018d9386-2f99-7031-891d-3e447ae96857/"
-  },
-  {
-    "indice": 35,
-    "titulo": "2Dark",
-    "precio": "2.49",
-    "link": "https://itad.link/018d9386-7c2a-7306-835a-2f77638e2915/"
-  },
-  {
-    "indice": 36,
-    "titulo": "Shadows: Awakening",
-    "precio": "2.99",
-    "link": "https://itad.link/018d9386-c4b2-7265-ab25-7c95461ae531/"
-  },
-  {
-    "indice": 37,
-    "titulo": "WRC 10 FIA World Rally Championship",
-    "precio": "4.99",
-    "link": "https://itad.link/018d9386-f960-7016-8f97-6519db31cf70/"
-  },
-  {
-    "indice": 38,
-    "titulo": "Train Valley",
-    "precio": "0.99",
-    "link": "https://itad.link/018d9386-e5e5-70c4-b03e-817297202724/"
-  },
-  {
-    "indice": 39,
-    "titulo": "Dark Devotion",
-    "precio": "1.99",
-    "link": "https://itad.link/018d9386-46cf-700d-a011-37beb73f098b/"
-  },
-  {
-    "indice": 40,
-    "titulo": "X3: Albion Prelude",
-    "precio": "0.99",
-    "link": "https://itad.link/018d9386-fa47-738f-a79d-52dadcd69517/"
-  },
-  {
-    "indice": 41,
-    "titulo": "Tower of Time",
-    "precio": "1.74",
-    "link": "https://itad.link/018d9386-e3ed-7061-8dec-f306f4dead3b/"
-  },
-  {
-    "indice": 42,
-    "titulo": "Valfaris - Digital OST",
-    "precio": "0.99",
-    "link": "https://itad.link/018d9386-ed34-7266-9f74-6745531c858c/"
-  },
-  {
-    "indice": 43,
-    "titulo": "WRC 7 FIA World Rally Championship",
-    "precio": "1.99",
-    "link": "https://itad.link/018d9386-f966-7308-add8-95645f78931b/"
-  },
-  {
-    "indice": 44,
-    "titulo": "Pecaminosa",
-    "precio": "0.99",
-    "link": "https://itad.link/018d9386-ab58-730e-99be-3a8686bd840b/"
-  },
-  {
-    "indice": 45,
-    "titulo": "AER Memories of Old",
-    "precio": "1.49",
-    "link": "https://itad.link/018d9386-170d-7339-83b7-b9f647fe791d/"
-  },
-  {
-    "indice": 46,
-    "titulo": "Fantasy Idle Dungeon",
-    "precio": "0.89",
-    "link": "https://itad.link/019ae724-a7ff-71b7-82cf-66d58e820f4c/"
-  },
-  {
-    "indice": 47,
-    "titulo": "Do Not Feed the Monkeys",
-    "precio": "1.59",
-    "link": "https://itad.link/018d9386-50b7-728b-846c-b65936627208/"
-  },
-  {
-    "indice": 48,
-    "titulo": "Mortal Kombat 11 Ultimate Add-On Bundle",
-    "precio": "4.99",
-    "link": "https://itad.link/018d9386-eb41-7362-86d9-c3d4d4911597/"
-  },
-  {
-    "indice": 49,
-    "titulo": "Outcast - Second Contact",
-    "precio": "1.49",
-    "link": "https://itad.link/018d9386-a7d6-72e9-b7e8-4a938d221894/"
-  },
-  {
-    "indice": 50,
-    "titulo": "Endzone - A World Apart",
-    "precio": "2.49",
-    "link": "https://itad.link/018d9386-5832-71a5-8449-5c270033a9af/"
-  },
-  {
-    "indice": 51,
-    "titulo": "Skyhill",
-    "precio": "0.99",
-    "link": "https://itad.link/018d9386-ca6c-723e-9c96-cd2798f1ee02/"
-  },
-  {
-    "indice": 52,
-    "titulo": "Werewolf: The Apocalypse - Earthblood - Champion of Gaia Pack",
-    "precio": "1.29",
-    "link": "https://itad.link/018d9386-f4db-7240-bbb3-3637dbdcf128/"
-  },
-  {
-    "indice": 53,
-    "titulo": "Shattered - Tale of the Forgotten King",
-    "precio": "2.99",
-    "link": "https://itad.link/018d9386-c56d-702c-b0d7-03b68fa2f170/"
-  },
-  {
-    "indice": 54,
-    "titulo": "Monster Truck Championship",
+    "indice": 18,
+    "titulo": "A Plague Tale: Innocence",
     "precio": "3.99",
-    "link": "https://itad.link/018d9386-9960-738d-bfb8-c447c5197440/"
+    "link": "https://itad.link/018d9386-241c-719f-aef5-9e1b1fc2cb5d/"
   },
   {
-    "indice": 55,
-    "titulo": "Felix The Reaper",
+    "indice": 19,
+    "titulo": "MORTAL KOMBAT 11",
+    "precio": "4.99",
+    "link": "https://itad.link/018d9386-9bb5-7349-a078-05fc588be27a/"
+  },
+  {
+    "indice": 20,
+    "titulo": "Call of Juarez: Gunslinger",
+    "precio": "1.49",
+    "link": "https://itad.link/018d9386-39df-70bd-9ff0-ff244148acb1/"
+  },
+  {
+    "indice": 21,
+    "titulo": "Astria Ascending",
+    "precio": "3.49",
+    "link": "https://itad.link/018d9386-2a8b-71ed-8c6b-76cd9d5de69b/"
+  },
+  {
+    "indice": 22,
+    "titulo": "Poly Bridge",
     "precio": "0.99",
-    "link": "https://itad.link/018d9386-62b2-73f7-b0a5-d1f514001fa5/"
+    "link": "https://itad.link/018d9386-b03d-7180-af03-4752a777b74a/"
   },
   {
-    "indice": 56,
-    "titulo": "DRAGON BALL XENOVERSE",
-    "precio": "3.99",
-    "link": "https://itad.link/018d9386-518e-7184-ad58-ee92d1cf8d2d/"
+    "indice": 23,
+    "titulo": "Shadow Warrior 2",
+    "precio": "2.99",
+    "link": "https://itad.link/018d9386-c4ba-7230-877e-a77a9766fe92/"
   },
   {
-    "indice": 57,
-    "titulo": "The Long Journey Home",
-    "precio": "0.99",
-    "link": "https://itad.link/018d9386-8e45-70ee-8e7c-df4a3f6eaf95/"
+    "indice": 24,
+    "titulo": "Iratus: Lord of the Dead",
+    "precio": "2.99",
+    "link": "https://itad.link/018d9386-81b7-7098-94dc-ad57e9ef4248/"
   },
   {
-    "indice": 58,
-    "titulo": "EVERSPACE™",
-    "precio": "1.99",
-    "link": "https://itad.link/018d9386-5b5b-7008-b87a-01e728911791/"
-  },
-  {
-    "indice": 59,
+    "indice": 25,
     "titulo": "NeuroVoider",
     "precio": "1.39",
     "link": "https://itad.link/018d9386-a116-7155-9721-ba54c652376d/"
   },
   {
-    "indice": 60,
-    "titulo": "Destiny 2: The Witch Queen",
+    "indice": 26,
+    "titulo": "Märchen Forest",
+    "precio": "3.49",
+    "link": "https://itad.link/018d9386-9324-7103-baa3-af1d9e410824/"
+  },
+  {
+    "indice": 27,
+    "titulo": "Recompile",
     "precio": "1.99",
-    "link": "https://itad.link/018d9386-4c0d-731c-91a6-a061c67fd740/"
+    "link": "https://itad.link/018d9386-b6fc-70b3-ae9b-aa63d8d8dd4c/"
+  },
+  {
+    "indice": 28,
+    "titulo": "Shattered - Tale of the Forgotten King",
+    "precio": "2.99",
+    "link": "https://itad.link/018d9386-c56d-702c-b0d7-03b68fa2f170/"
+  },
+  {
+    "indice": 29,
+    "titulo": "Hammerting",
+    "precio": "2.49",
+    "link": "https://itad.link/018d9386-713b-7175-a325-83c38eb78b09/"
+  },
+  {
+    "indice": 30,
+    "titulo": "State of Mind",
+    "precio": "1.99",
+    "link": "https://itad.link/018d9386-d29c-712f-816e-542fcb5396a6/"
+  },
+  {
+    "indice": 31,
+    "titulo": "Outcast - Second Contact",
+    "precio": "1.49",
+    "link": "https://itad.link/018d9386-a7d6-72e9-b7e8-4a938d221894/"
+  },
+  {
+    "indice": 32,
+    "titulo": "Mugsters",
+    "precio": "1.19",
+    "link": "https://itad.link/018d9386-9ce3-70ad-acba-067fa545ec98/"
+  },
+  {
+    "indice": 33,
+    "titulo": "Agatha Christie - The ABC Murders",
+    "precio": "1.49",
+    "link": "https://itad.link/018d9386-1720-73d6-a6fe-a15d9eeaf2b0/"
+  },
+  {
+    "indice": 34,
+    "titulo": "Flockers™",
+    "precio": "0.99",
+    "link": "https://itad.link/018d9386-656b-70ef-9f01-866bfee9efec/"
+  },
+  {
+    "indice": 35,
+    "titulo": "The Blind Prophet",
+    "precio": "1.99",
+    "link": "https://itad.link/018d9386-330a-7340-bd91-49fe8213399b/"
+  },
+  {
+    "indice": 36,
+    "titulo": "War Hospital",
+    "precio": "2.99",
+    "link": "https://itad.link/018d9386-f39d-719a-9489-ffe6e617cd91/"
+  },
+  {
+    "indice": 37,
+    "titulo": "LEGO Batman Trilogy",
+    "precio": "4.99",
+    "link": "https://itad.link/018d9386-8b31-72af-a6df-c5ff36542db9/"
+  },
+  {
+    "indice": 38,
+    "titulo": "Flooded",
+    "precio": "1.29",
+    "link": "https://itad.link/018d9386-656c-7092-9bb1-3520ac5c5e30/"
+  },
+  {
+    "indice": 39,
+    "titulo": "WRC 8 FIA World Rally Championship",
+    "precio": "2.99",
+    "link": "https://itad.link/018d9386-f966-7308-add8-95648dc23d43/"
+  },
+  {
+    "indice": 40,
+    "titulo": "Rogue Lords",
+    "precio": "2.49",
+    "link": "https://itad.link/018d9386-bcad-730d-9d7b-a607dc07948b/"
+  },
+  {
+    "indice": 41,
+    "titulo": "RUINER",
+    "precio": "1.99",
+    "link": "https://itad.link/018d9386-bed8-701e-aee0-5e26d7b710d6/"
+  },
+  {
+    "indice": 42,
+    "titulo": "Epic Chef",
+    "precio": "2.49",
+    "link": "https://itad.link/018d9386-5844-7100-901f-3689df9058f4/"
+  },
+  {
+    "indice": 43,
+    "titulo": "Life of Delta",
+    "precio": "1.99",
+    "link": "https://itad.link/018d9386-8d10-7077-bcd7-bcbd5facd25d/"
+  },
+  {
+    "indice": 44,
+    "titulo": "Wing of Darkness",
+    "precio": "2.99",
+    "link": "https://itad.link/018d9386-f61c-73c4-951d-425ad922ea32/"
+  },
+  {
+    "indice": 45,
+    "titulo": "WRC 10 FIA World Rally Championship",
+    "precio": "4.99",
+    "link": "https://itad.link/018d9386-f960-7016-8f97-6519db31cf70/"
+  },
+  {
+    "indice": 46,
+    "titulo": "Warhammer: Chaosbane",
+    "precio": "1.49",
+    "link": "https://itad.link/018d9386-f260-736d-a10f-85d9fb8a01b4/"
+  },
+  {
+    "indice": 47,
+    "titulo": "White Night",
+    "precio": "1.49",
+    "link": "https://itad.link/018d9386-f604-73d3-8b6e-317f127d6d7b/"
+  },
+  {
+    "indice": 48,
+    "titulo": "Blue Estate The Game",
+    "precio": "1.03",
+    "link": "https://itad.link/018d9386-3332-711b-9acd-193a47befaf4/"
+  },
+  {
+    "indice": 49,
+    "titulo": "Glitchpunk",
+    "precio": "1.99",
+    "link": "https://itad.link/018d9386-6be1-70e2-95bb-a4999e9ac916/"
+  },
+  {
+    "indice": 50,
+    "titulo": "The Serpent Rogue",
+    "precio": "1.99",
+    "link": "https://itad.link/018d9386-c36a-7142-8873-a75ad7ace7c7/"
+  },
+  {
+    "indice": 51,
+    "titulo": "Code Vein",
+    "precio": "5.99",
+    "link": "https://itad.link/018d9386-3ea4-7046-99ee-ba5e81d6a09b/"
+  },
+  {
+    "indice": 52,
+    "titulo": "Injustice 2",
+    "precio": "4.99",
+    "link": "https://itad.link/018d9386-7e2f-73d5-8de1-305ee6550f6b/"
+  },
+  {
+    "indice": 53,
+    "titulo": "Agents of Mayhem",
+    "precio": "1.49",
+    "link": "https://itad.link/018d9386-1726-7201-809d-5b74762def3e/"
+  },
+  {
+    "indice": 54,
+    "titulo": "WRC 9 FIA World Rally Championship",
+    "precio": "2.99",
+    "link": "https://itad.link/018d9386-f963-73ab-9509-1201a60ee49c/"
+  },
+  {
+    "indice": 55,
+    "titulo": "Werewolf: The Apocalypse - Earthblood",
+    "precio": "2.99",
+    "link": "https://itad.link/018d9386-f4da-71ae-9a80-f6435a9638fd/"
+  },
+  {
+    "indice": 56,
+    "titulo": "Shift Happens",
+    "precio": "1.59",
+    "link": "https://itad.link/018d9386-c57f-71b3-96be-9cb48d11a19a/"
+  },
+  {
+    "indice": 57,
+    "titulo": "Chronicles of Teddy : Harmony of Exidus",
+    "precio": "1.49",
+    "link": "https://itad.link/018d9386-7b0f-713f-bea5-68895fa991ae/"
+  },
+  {
+    "indice": 58,
+    "titulo": "Dropsy",
+    "precio": "0.99",
+    "link": "https://itad.link/018d9386-52d7-7127-90bb-efd54e6f2abd/"
+  },
+  {
+    "indice": 59,
+    "titulo": "Alien Breed 2: Assault",
+    "precio": "0.99",
+    "link": "https://itad.link/018d9386-1f16-7155-a423-3f2138ff504d/"
+  },
+  {
+    "indice": 60,
+    "titulo": "Distant Worlds: Universe",
+    "precio": "2.99",
+    "link": "https://itad.link/018d9386-4e7e-70dc-96bf-ab495a949d27/"
   }
 ]
