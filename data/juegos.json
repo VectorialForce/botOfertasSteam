@@ -1,15 +1,15 @@
 [
   {
     "indice": 1,
-    "titulo": "Children of Morta",
-    "precio": "2.19",
-    "link": "https://itad.link/018d9386-7af1-7292-b96b-9d22692b94a2/"
+    "titulo": "Crystal Crisis",
+    "precio": "0.00",
+    "link": "https://itad.link/01a09ec5-0b15-7343-84d0-0a2160f54022/"
   },
   {
     "indice": 2,
-    "titulo": "Borderlands 3",
-    "precio": "5.99",
-    "link": "https://itad.link/018d9386-357e-72d3-9206-0bac6de0cd43/"
+    "titulo": "Children of Morta",
+    "precio": "2.19",
+    "link": "https://itad.link/018d9386-7af1-7292-b96b-9d22692b94a2/"
   },
   {
     "indice": 3,
@@ -19,344 +19,344 @@
   },
   {
     "indice": 4,
-    "titulo": "A Plague Tale: Innocence",
-    "precio": "3.99",
-    "link": "https://itad.link/018d9386-241c-719f-aef5-9e1b1fc2cb5d/"
+    "titulo": "Borderlands 3",
+    "precio": "5.99",
+    "link": "https://itad.link/018d9386-357e-72d3-9206-0bac6de0cd43/"
   },
   {
     "indice": 5,
-    "titulo": "Shadow Warrior 2",
-    "precio": "2.99",
-    "link": "https://itad.link/018d9386-c4ba-7230-877e-a77a9766fe92/"
+    "titulo": "Divinity: Original Sin Enhanced Edition",
+    "precio": "3.99",
+    "link": "https://itad.link/018d9386-4f80-722b-a264-f60816067b3c/"
   },
   {
     "indice": 6,
-    "titulo": "shapez",
-    "precio": "0.99",
-    "link": "https://itad.link/018d9386-c568-73c4-ad63-ff5741d8d783/"
-  },
-  {
-    "indice": 7,
-    "titulo": "Vampyr",
-    "precio": "3.99",
-    "link": "https://itad.link/018d9386-ed45-72c8-a6cd-f603b67ed350/"
-  },
-  {
-    "indice": 8,
-    "titulo": "Shadow Warrior",
-    "precio": "2.99",
-    "link": "https://itad.link/018d9386-c4b9-72af-9a80-da8016476f25/"
-  },
-  {
-    "indice": 9,
-    "titulo": "Sniper Elite 5",
-    "precio": "4.99",
-    "link": "https://itad.link/018d9386-cb49-719c-8e1e-022c67c43450/"
-  },
-  {
-    "indice": 10,
     "titulo": "SOULCALIBUR VI",
     "precio": "5.99",
     "link": "https://itad.link/018d9386-cd3e-72e1-b0f7-c85d27416fe2/"
   },
   {
-    "indice": 11,
+    "indice": 7,
     "titulo": "Sid Meier's Civilization® VI",
     "precio": "5.99",
     "link": "https://itad.link/018d9386-c7ec-733e-9a3a-4e4f04e24a47/"
   },
   {
-    "indice": 12,
+    "indice": 8,
     "titulo": "Mordheim: City of the Damned",
     "precio": "1.39",
     "link": "https://itad.link/018d9386-9baf-72bb-8837-1a620fa3d826/"
   },
   {
-    "indice": 13,
-    "titulo": "The Guest",
-    "precio": "0.99",
-    "link": "https://itad.link/018d9386-700a-71f8-b6a5-79a021ee6da0/"
-  },
-  {
-    "indice": 14,
-    "titulo": "Beholder",
-    "precio": "1.39",
-    "link": "https://itad.link/018d9386-2f99-7031-891d-3e447ae96857/"
-  },
-  {
-    "indice": 15,
-    "titulo": "Valfaris",
-    "precio": "2.49",
-    "link": "https://itad.link/018d9386-ed34-7266-9f74-6745485ad59f/"
-  },
-  {
-    "indice": 16,
-    "titulo": "RUINER",
-    "precio": "1.99",
-    "link": "https://itad.link/018d9386-bed8-701e-aee0-5e26d7b710d6/"
-  },
-  {
-    "indice": 17,
-    "titulo": "Rising Storm 2: Vietnam",
-    "precio": "2.49",
-    "link": "https://itad.link/018d9386-bb37-7157-bb62-dd7240aa3287/"
-  },
-  {
-    "indice": 18,
-    "titulo": "Danganronpa: Trigger Happy Havoc",
-    "precio": "1.99",
-    "link": "https://itad.link/018d9386-46c3-7226-86e1-2c42d000d019/"
-  },
-  {
-    "indice": 19,
-    "titulo": "Do Not Feed the Monkeys",
-    "precio": "1.59",
-    "link": "https://itad.link/018d9386-50b7-728b-846c-b65936627208/"
-  },
-  {
-    "indice": 20,
-    "titulo": "Hexarchy",
-    "precio": "1.99",
-    "link": "https://itad.link/018d9386-74c5-72ea-b9c4-dfe4bb58e86d/"
-  },
-  {
-    "indice": 21,
-    "titulo": "Caveblazers",
-    "precio": "0.89",
-    "link": "https://itad.link/018d9386-3bbe-72e9-8564-ff7566d25b72/"
-  },
-  {
-    "indice": 22,
-    "titulo": "Tales & Tactics",
-    "precio": "1.79",
-    "link": "https://itad.link/018d9386-daac-730e-b040-47b0161681c5/"
-  },
-  {
-    "indice": 23,
-    "titulo": "Sniper Elite 4",
-    "precio": "5.99",
-    "link": "https://itad.link/018d9386-cb48-7029-87d4-8f16decc6c4a/"
-  },
-  {
-    "indice": 24,
-    "titulo": "The Last Campfire",
-    "precio": "1.49",
-    "link": "https://itad.link/018d9386-89b8-7090-bb5d-04bfc02092b5/"
-  },
-  {
-    "indice": 25,
-    "titulo": "Distrust",
-    "precio": "1.29",
-    "link": "https://itad.link/018d9386-4f7b-72c7-a412-b58d0ce252f6/"
-  },
-  {
-    "indice": 26,
-    "titulo": "Song of Farca",
-    "precio": "1.99",
-    "link": "https://itad.link/018d9386-cd26-732a-9d79-c9018e0b2e08/"
-  },
-  {
-    "indice": 27,
-    "titulo": "Disjunction",
-    "precio": "1.59",
-    "link": "https://itad.link/018d9386-4e6c-72eb-b315-ccd85f1571b5/"
-  },
-  {
-    "indice": 28,
-    "titulo": "Space Robinson",
-    "precio": "0.99",
-    "link": "https://itad.link/018d9386-cf18-7265-8278-0b71c5f99dd7/"
-  },
-  {
-    "indice": 29,
-    "titulo": "Detective Gallo",
-    "precio": "1.49",
-    "link": "https://itad.link/018d9386-4c14-73ba-81b3-dc3d790237e3/"
-  },
-  {
-    "indice": 30,
-    "titulo": "Crime Boss: Rockay City",
-    "precio": "1.99",
-    "link": "https://itad.link/01925355-caab-730f-9ea9-e65ce1c610d7/"
-  },
-  {
-    "indice": 31,
-    "titulo": "Helheim Hassle",
-    "precio": "1.19",
-    "link": "https://itad.link/018d9386-7396-73d0-b6b0-553af76683d2/"
-  },
-  {
-    "indice": 32,
-    "titulo": "Imp of the Sun",
-    "precio": "1.99",
-    "link": "https://itad.link/018d9386-7e09-735d-ab6a-c8ffa77a59ae/"
-  },
-  {
-    "indice": 33,
-    "titulo": "I am not a Monster: First Contact",
-    "precio": "1.09",
-    "link": "https://itad.link/018d9386-7c06-7183-a08b-cf58b503803f/"
-  },
-  {
-    "indice": 34,
-    "titulo": "MORTAL KOMBAT 11",
-    "precio": "4.99",
-    "link": "https://itad.link/018d9386-9bb5-7349-a078-05fc588be27a/"
-  },
-  {
-    "indice": 35,
-    "titulo": "The Coma: Recut",
-    "precio": "1.49",
-    "link": "https://itad.link/018d9386-3f91-72d5-aa1b-a7d13294180e/"
-  },
-  {
-    "indice": 36,
-    "titulo": "The Coma 2: Vicious Sisters",
-    "precio": "1.49",
-    "link": "https://itad.link/018d9386-3f90-7213-b4f1-c26308b33482/"
-  },
-  {
-    "indice": 37,
-    "titulo": "Pro Rugby Manager 2015",
-    "precio": "0.99",
-    "link": "https://itad.link/018d9386-b26c-7016-bbd4-086ccf01a9e9/"
-  },
-  {
-    "indice": 38,
-    "titulo": "Serious Sam HD",
-    "precio": "1.49",
-    "link": "https://itad.link/018d9386-c366-71a6-9da9-62ecbd72cb7d/"
-  },
-  {
-    "indice": 39,
-    "titulo": "In Sound Mind",
-    "precio": "3.49",
-    "link": "https://itad.link/018d9386-7f7a-73a1-a2da-9311846e6599/"
-  },
-  {
-    "indice": 40,
-    "titulo": "The Repair House: Restoration Sim",
-    "precio": "1.99",
-    "link": "https://itad.link/018d9386-b7d8-7306-9579-2f22c03044f4/"
-  },
-  {
-    "indice": 41,
-    "titulo": "Witchcrafty",
-    "precio": "0.99",
-    "link": "https://itad.link/018d9386-f628-718e-a244-22b6968c4537/"
-  },
-  {
-    "indice": 42,
-    "titulo": "Bots Are Stupid",
-    "precio": "1.29",
-    "link": "https://itad.link/018d9386-35a7-7204-baa3-203f7ba72423/"
-  },
-  {
-    "indice": 43,
-    "titulo": "Aces and Adventures",
-    "precio": "1.99",
-    "link": "https://itad.link/018d9386-111d-7074-82bb-3befb66862bf/"
-  },
-  {
-    "indice": 44,
-    "titulo": "GreedFall",
-    "precio": "3.49",
-    "link": "https://itad.link/018d9386-6f3c-7360-84cc-0b860530d968/"
-  },
-  {
-    "indice": 45,
-    "titulo": "Abermore",
-    "precio": "1.59",
-    "link": "https://itad.link/018d9386-1108-70f3-8c3e-fb4f41d8fc13/"
-  },
-  {
-    "indice": 46,
-    "titulo": "Hexguardian",
-    "precio": "1.19",
-    "link": "https://itad.link/018f3906-8e05-72fb-b9ca-63c8db7efca3/"
-  },
-  {
-    "indice": 47,
-    "titulo": "Golfie",
-    "precio": "1.79",
-    "link": "https://itad.link/018d9386-6caa-73b1-8f22-d1598d40bdc6/"
-  },
-  {
-    "indice": 48,
-    "titulo": "GOD EATER 3",
-    "precio": "5.99",
-    "link": "https://itad.link/018d9386-6c90-72f5-95d7-371fe8f97a52/"
-  },
-  {
-    "indice": 49,
-    "titulo": "Qume: Echoes of Sand",
-    "precio": "0.89",
-    "link": "https://itad.link/019736f6-0ae9-72d3-94e2-3c0f502100b8/"
-  },
-  {
-    "indice": 50,
-    "titulo": "House Flipper",
-    "precio": "2.49",
-    "link": "https://itad.link/018d9386-76e1-7290-af34-356611209643/"
-  },
-  {
-    "indice": 51,
+    "indice": 9,
     "titulo": "Digimon Story Cyber Sleuth: Complete Edition",
     "precio": "4.99",
     "link": "https://itad.link/018d9386-4d2c-71dd-9949-aa3edaf97be0/"
   },
   {
-    "indice": 52,
-    "titulo": "Joe Dever's Lone Wolf HD Remastered",
+    "indice": 10,
+    "titulo": "Crown Wars: The Black Prince",
+    "precio": "1.99",
+    "link": "https://itad.link/018fa63c-5b6b-7074-9658-0eb1f26a93dc/"
+  },
+  {
+    "indice": 11,
+    "titulo": "Battlefield™ 2042",
+    "precio": "5.99",
+    "link": "https://itad.link/018d9386-2e8b-71ba-a73c-2521c6ef7790/"
+  },
+  {
+    "indice": 12,
+    "titulo": "Sniper Elite 4",
+    "precio": "5.99",
+    "link": "https://itad.link/018d9386-cb48-7029-87d4-8f16decc6c4a/"
+  },
+  {
+    "indice": 13,
+    "titulo": "Beholder",
+    "precio": "1.39",
+    "link": "https://itad.link/018d9386-2f99-7031-891d-3e447ae96857/"
+  },
+  {
+    "indice": 14,
+    "titulo": "STAR WARS™: Squadrons",
+    "precio": "3.99",
+    "link": "https://itad.link/018d9386-d293-7025-9069-eba01ba2bd07/"
+  },
+  {
+    "indice": 15,
+    "titulo": "Outcast - Second Contact",
     "precio": "1.49",
-    "link": "https://itad.link/018d9386-8416-7377-ad89-4b3cc32682d8/"
+    "link": "https://itad.link/018d9386-a7d6-72e9-b7e8-4a938d221894/"
+  },
+  {
+    "indice": 16,
+    "titulo": "Do Not Feed the Monkeys",
+    "precio": "1.59",
+    "link": "https://itad.link/018d9386-50b7-728b-846c-b65936627208/"
+  },
+  {
+    "indice": 17,
+    "titulo": "GOD EATER 3",
+    "precio": "5.99",
+    "link": "https://itad.link/018d9386-6c90-72f5-95d7-371fe8f97a52/"
+  },
+  {
+    "indice": 18,
+    "titulo": "WRC 10 FIA World Rally Championship",
+    "precio": "4.99",
+    "link": "https://itad.link/018d9386-f960-7016-8f97-6519db31cf70/"
+  },
+  {
+    "indice": 19,
+    "titulo": "The Last Campfire",
+    "precio": "1.49",
+    "link": "https://itad.link/018d9386-89b8-7090-bb5d-04bfc02092b5/"
+  },
+  {
+    "indice": 20,
+    "titulo": "Welcome to ParadiZe",
+    "precio": "2.99",
+    "link": "https://itad.link/018df5dd-0949-71a8-a6eb-4e10857d4737/"
+  },
+  {
+    "indice": 21,
+    "titulo": "Battlefield 3™ Premium Edition",
+    "precio": "3.99",
+    "link": "https://itad.link/018d9386-2e91-70e5-a5a3-0c40b4bbc8fd/"
+  },
+  {
+    "indice": 22,
+    "titulo": "Rogue Lords",
+    "precio": "2.49",
+    "link": "https://itad.link/018d9386-bcad-730d-9d7b-a607dc07948b/"
+  },
+  {
+    "indice": 23,
+    "titulo": "Battlefield™ 1 Revolution",
+    "precio": "3.99",
+    "link": "https://itad.link/018d9386-2e92-70eb-ae13-61d0383aa841/"
+  },
+  {
+    "indice": 24,
+    "titulo": "Shadow Warrior 2",
+    "precio": "2.99",
+    "link": "https://itad.link/018d9386-c4ba-7230-877e-a77a9766fe92/"
+  },
+  {
+    "indice": 25,
+    "titulo": "Mato Anomalies",
+    "precio": "1.49",
+    "link": "https://itad.link/018d9386-93f2-73f9-b8dc-21e8fdea0160/"
+  },
+  {
+    "indice": 26,
+    "titulo": "Gal*Gun 2",
+    "precio": "2.99",
+    "link": "https://itad.link/018d9386-69db-7198-9247-82476f7542ab/"
+  },
+  {
+    "indice": 27,
+    "titulo": "Battlefield 4 Premium Edition",
+    "precio": "3.99",
+    "link": "https://itad.link/018d9386-2e96-7102-af09-8171fcd0c384/"
+  },
+  {
+    "indice": 28,
+    "titulo": "The Uncertain: Light At The End",
+    "precio": "0.99",
+    "link": "https://itad.link/018d9386-eb52-731b-8a05-8165813c6be2/"
+  },
+  {
+    "indice": 29,
+    "titulo": "GOD EATER 2 Rage Burst",
+    "precio": "4.99",
+    "link": "https://itad.link/018d9386-6c91-7007-9ba5-858026e2ab00/"
+  },
+  {
+    "indice": 30,
+    "titulo": "shapez",
+    "precio": "0.99",
+    "link": "https://itad.link/018d9386-c568-73c4-ad63-ff5741d8d783/"
+  },
+  {
+    "indice": 31,
+    "titulo": "Hexarchy",
+    "precio": "1.99",
+    "link": "https://itad.link/018d9386-74c5-72ea-b9c4-dfe4bb58e86d/"
+  },
+  {
+    "indice": 32,
+    "titulo": "Caveblazers",
+    "precio": "0.89",
+    "link": "https://itad.link/018d9386-3bbe-72e9-8564-ff7566d25b72/"
+  },
+  {
+    "indice": 33,
+    "titulo": "WRC 9 FIA World Rally Championship",
+    "precio": "2.99",
+    "link": "https://itad.link/018d9386-f963-73ab-9509-1201a60ee49c/"
+  },
+  {
+    "indice": 34,
+    "titulo": "INDUSTRIA",
+    "precio": "1.99",
+    "link": "https://itad.link/018d9386-7e1b-7372-931f-d54f9fb2eb9c/"
+  },
+  {
+    "indice": 35,
+    "titulo": "Steel Rats",
+    "precio": "0.99",
+    "link": "https://itad.link/018d9386-d3a7-71ff-a812-faf06dfe27e2/"
+  },
+  {
+    "indice": 36,
+    "titulo": "When Ski Lifts Go Wrong",
+    "precio": "1.49",
+    "link": "https://itad.link/018d9386-f4e8-73a4-8c6a-3a18d2866e1a/"
+  },
+  {
+    "indice": 37,
+    "titulo": "Song of Farca",
+    "precio": "1.99",
+    "link": "https://itad.link/018d9386-cd26-732a-9d79-c9018e0b2e08/"
+  },
+  {
+    "indice": 38,
+    "titulo": "Tales & Tactics",
+    "precio": "1.79",
+    "link": "https://itad.link/018d9386-daac-730e-b040-47b0161681c5/"
+  },
+  {
+    "indice": 39,
+    "titulo": "GRIP: Combat Racing",
+    "precio": "2.99",
+    "link": "https://itad.link/018d9386-6f52-71ca-89b4-9303f1b8df91/"
+  },
+  {
+    "indice": 40,
+    "titulo": "Rising Storm 2: Vietnam",
+    "precio": "2.49",
+    "link": "https://itad.link/018d9386-bb37-7157-bb62-dd7240aa3287/"
+  },
+  {
+    "indice": 41,
+    "titulo": "Sniper Elite 5",
+    "precio": "4.99",
+    "link": "https://itad.link/018d9386-cb49-719c-8e1e-022c67c43450/"
+  },
+  {
+    "indice": 42,
+    "titulo": "Distrust",
+    "precio": "1.29",
+    "link": "https://itad.link/018d9386-4f7b-72c7-a412-b58d0ce252f6/"
+  },
+  {
+    "indice": 43,
+    "titulo": "Need for Speed™ Heat Deluxe Edition",
+    "precio": "6.99",
+    "link": "https://itad.link/018d9386-a0f2-7257-a08d-0ed283741d06/"
+  },
+  {
+    "indice": 44,
+    "titulo": "Great Houses of Calderia",
+    "precio": "1.49",
+    "link": "https://itad.link/018d9386-6f38-70ec-a3b9-6465dcaeb4d7/"
+  },
+  {
+    "indice": 45,
+    "titulo": "Stealth Inc. 2: A Game of Clones",
+    "precio": "1.49",
+    "link": "https://itad.link/018d9386-d39a-71cb-bb2f-cc5393230e0b/"
+  },
+  {
+    "indice": 46,
+    "titulo": "V-Rally 4",
+    "precio": "2.99",
+    "link": "https://itad.link/018d9386-f06c-724b-9c27-7a7a68ef8286/"
+  },
+  {
+    "indice": 47,
+    "titulo": "Dry Drowning",
+    "precio": "1.99",
+    "link": "https://itad.link/018d9386-52db-7182-8cd5-8eabb9f230be/"
+  },
+  {
+    "indice": 48,
+    "titulo": "The Indie Mixtape",
+    "precio": "0.99",
+    "link": "https://itad.link/018d9386-7e19-7115-9ad1-a5de4bb88ec0/"
+  },
+  {
+    "indice": 49,
+    "titulo": "ONE PUNCH MAN: A HERO NOBODY KNOWS",
+    "precio": "5.99",
+    "link": "https://itad.link/018d9386-a6f2-72ee-a490-3e751c8274f2/"
+  },
+  {
+    "indice": 50,
+    "titulo": "The Coma 2: Vicious Sisters",
+    "precio": "1.49",
+    "link": "https://itad.link/018d9386-3f90-7213-b4f1-c26308b33482/"
+  },
+  {
+    "indice": 51,
+    "titulo": "Hunting Simulator 2",
+    "precio": "1.99",
+    "link": "https://itad.link/018d9386-77aa-7140-98cd-e6ed3e2483a9/"
+  },
+  {
+    "indice": 52,
+    "titulo": "House Flipper VR",
+    "precio": "1.99",
+    "link": "https://itad.link/018d9386-76e4-7336-b1f2-9b3c8990ff63/"
   },
   {
     "indice": 53,
-    "titulo": "Buildings Have Feelings Too!",
-    "precio": "1.99",
-    "link": "https://itad.link/018d9386-37c4-71db-8b65-9acff17c6a52/"
+    "titulo": "10 Second Ninja X",
+    "precio": "0.99",
+    "link": "https://itad.link/018d9386-7c01-70f2-9759-b7e85d2b87ad/"
   },
   {
     "indice": 54,
-    "titulo": "Card Storm Idle - Gem Booster",
+    "titulo": "Battlefield V Definitive Edition",
     "precio": "4.99",
-    "link": "https://itad.link/018d9386-3a01-72f5-bb38-39c86d16d2d1/"
+    "link": "https://itad.link/018d9386-2e98-73dd-aab8-33012ef80e0f/"
   },
   {
     "indice": 55,
-    "titulo": "Card Storm Idle- Prestige Booster",
-    "precio": "6.99",
-    "link": "https://itad.link/018d9386-3a01-72f5-bb38-39c8750e182a/"
+    "titulo": "Gangs of Sherwood",
+    "precio": "3.99",
+    "link": "https://itad.link/018d9386-69fa-71ec-ad67-14789382be23/"
   },
   {
     "indice": 56,
-    "titulo": "The Lightbringer",
-    "precio": "1.49",
-    "link": "https://itad.link/018d9386-8d14-72d9-8487-9931752c2699/"
+    "titulo": "Super Dragon Ball Heroes World Mission",
+    "precio": "5.99",
+    "link": "https://itad.link/018d9386-d76f-7179-b65f-5290aae37ed6/"
   },
   {
     "indice": 57,
-    "titulo": "Little Friends: Puppy Island",
-    "precio": "3.99",
-    "link": "https://itad.link/018d9386-8d2d-73c4-88dd-3d12f410ade2/"
+    "titulo": "Zorro: The Chronicles",
+    "precio": "1.49",
+    "link": "https://itad.link/018d9386-fdd2-72d6-b86d-0f2e7e0d4692/"
   },
   {
     "indice": 58,
-    "titulo": "Beyond the Long Night",
-    "precio": "1.79",
-    "link": "https://itad.link/018d9386-30dc-71c5-b64c-f70d69a93d4f/"
+    "titulo": "Qora",
+    "precio": "0.99",
+    "link": "https://itad.link/018d9386-b3a1-705f-bcf6-69f53294b101/"
   },
   {
     "indice": 59,
-    "titulo": "Trolley Problem, Inc.",
-    "precio": "1.09",
-    "link": "https://itad.link/018d9386-e8a9-736a-a7c2-209e5f084548/"
+    "titulo": "The Guest",
+    "precio": "0.99",
+    "link": "https://itad.link/018d9386-700a-71f8-b6a5-79a021ee6da0/"
   },
   {
     "indice": 60,
-    "titulo": "Whispering Willows",
-    "precio": "0.99",
-    "link": "https://itad.link/018d9386-f5fe-7054-a1bf-4d10694499f4/"
+    "titulo": "Shadow Warrior",
+    "precio": "2.99",
+    "link": "https://itad.link/018d9386-c4b9-72af-9a80-da8016476f25/"
   }
 ]
